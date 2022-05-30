@@ -1,17 +1,21 @@
 <h2>Rectangle Creator</h2>
 <p>Count: <input id="count" value="5" /></p>
+<p>RGB Color: <input id="color" value="1,0,0.5" /></p>
 <button id="create">Create</button>
 <button id="cancel">Cancel</button>
 <script>
   document.getElementById("create").onclick = () => {
     const textbox = document.getElementById("count");
     const count = parseInt(textbox.value, 10);
+    const colorBox = document.getElementById("color");
+    const colorArray = colorBox.value.split(",").map(Number);
+    const [red, green, blue] = colorArray;
     parent.postMessage(
       {
         pluginMessage: {
           type: "create-rectangles",
           count,
-          color: { r: 1, g: 0, b: 0.5 },
+          color: { r: red, g: green, b: blue },
         },
       },
       "*"
