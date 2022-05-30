@@ -7,3 +7,5 @@ A quick intro to Figma plugins.
 - understanding the workflow to create a Figma plugin.
 - sending user variables.
 - customizing the background color.
+
+Based on [Figma Plugins Docs](https://www.figma.com/plugin-docs/) (2022).
