@@ -1,6 +1,6 @@
 # Rectangle Creator
 
-A quick intro to Figma plugins.
+A quick intro to Figma Plugins.
 
 ## Features
 

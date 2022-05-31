@@ -1,9 +1,11 @@
-// This plugin will open a window to prompt the user to enter a number, and
+// This plugin will open a window to prompt the user to enter a number and a RGB color, and
 // it will then create that many rectangles on the screen.
 
 // This file holds the main code for the plugins. It has access to the *document*.
 // You can access browser APIs in the <script> tag inside "ui.html" which has a
 // full browser environment (see documentation).
+// console.log(this)
+// this.alert("hello");
 
 // This shows the HTML page in "ui.html".
 figma.showUI(__html__);
