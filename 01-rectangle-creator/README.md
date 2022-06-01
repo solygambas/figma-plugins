@@ -2,6 +2,10 @@
 
 A quick intro to Figma Plugins.
 
+<p align="center">
+    <img src="screenshot.png">
+</p>
+
 ## Features
 
 - understanding the workflow to create a Figma plugin.
