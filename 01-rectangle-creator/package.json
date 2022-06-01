@@ -1,14 +1,22 @@
 {
   "name": "RectangleCreator",
   "version": "1.0.0",
-  "description": "Your Figma Plugin",
+  "description": "A quick intro to Figma Plugins.",
   "main": "code.js",
   "scripts": {
     "dev": "tsc -w -p tsconfig.json",
     "build": "tsc -p tsconfig.json"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solygambas/figma-plugins.git"
+  },
   "author": "solygambas",
-  "license": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solygambas/figma-plugins/issues"
+  },
+  "homepage": "https://github.com/solygambas/figma-plugins#readme",
   "devDependencies": {
     "@figma/plugin-typings": "^1.47.0",
     "typescript": "*"

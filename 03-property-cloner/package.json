@@ -1,14 +1,22 @@
 {
   "name": "PropertyCloner",
   "version": "1.0.0",
-  "description": "Your Figma Plugin",
+  "description": "A small plugin to learn how to edit properties.",
   "main": "code.js",
   "scripts": {
     "dev": "tsc -w -p tsconfig.json",
     "build": "tsc -p tsconfig.json"
   },
-  "author": "",
-  "license": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solygambas/figma-plugins.git"
+  },
+  "author": "solygambas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solygambas/figma-plugins/issues"
+  },
+  "homepage": "https://github.com/solygambas/figma-plugins#readme",
   "devDependencies": {
     "@figma/plugin-typings": "*",
     "typescript": "*"
