@@ -1,0 +1,8 @@
+{
+  "name": "SocialMediaPost",
+  "id": "1113154640876724919",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"],
+  "ui": "ui.html"
+}
