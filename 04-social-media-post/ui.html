@@ -1,0 +1,104 @@
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/thomas-lowry/figma-plugin-ds/dist/figma-plugin-ds.css"
+/>
+
+<style>
+  body {
+    padding: 2rem;
+  }
+  div {
+    margin: 1rem;
+  }
+  input,
+  textarea {
+    display: block;
+  }
+</style>
+
+<h1>Petma Plugin</h1>
+
+<div>
+  <label for="username">Username</label>
+  <input
+    type="text"
+    name="username"
+    id="username"
+    class="input__field"
+    placeholder="Your Petma username"
+  />
+  <label for="name">Name</label>
+  <input
+    type="text"
+    name="name"
+    id="name"
+    class="input__field"
+    placeholder="Your Petma display name"
+  />
+  <label for="description">Description</label>
+  <textarea
+    class="textarea"
+    rows="2"
+    placeholder="Your post goes here"
+    id="description"
+  ></textarea>
+</div>
+<div class="switch">
+  <input class="switch__toggle" type="checkbox" id="dark-mode-on" />
+  <label class="switch__label" for="dark-mode-on">Dark Mode</label>
+</div>
+<div class="radio">
+  <input
+    id="radioButton1"
+    type="radio"
+    class="radio__button"
+    value="1"
+    name="variantGroup"
+    checked
+  />
+  <label for="radioButton1" class="radio__label">No Image</label>
+  <input
+    id="radioButton2"
+    type="radio"
+    class="radio__button"
+    value="2"
+    name="variantGroup"
+  />
+  <label for="radioButton2" class="radio__label">Single Image</label>
+  <input
+    id="radioButton3"
+    type="radio"
+    class="radio__button"
+    value="3"
+    name="variantGroup"
+  />
+  <label for="radioButton3" class="radio__label">Carousel</label>
+</div>
+<div>
+  <button class="button button--primary" id="submit-post">Submit</button>
+</div>
+
+<script>
+  document.getElementById("submit-post").onclick = () => {
+    //console.log("building my first plugin");
+    const name = document.getElementById("name").value;
+    const username = document.getElementById("username").value;
+    const description = document.getElementById("description").value;
+    const darkModeState = document.getElementById("dark-mode-on").checked;
+    const imageVariant = document.querySelector(
+      'input[name="variantGroup"]:checked'
+    ).value;
+    parent.postMessage(
+      {
+        pluginMessage: {
+          name,
+          username,
+          description,
+          darkModeState,
+          imageVariant,
+        },
+      },
+      "*"
+    );
+  };
+</script>
