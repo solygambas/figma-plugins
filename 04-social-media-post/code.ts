@@ -2,6 +2,8 @@ figma.showUI(__html__);
 figma.ui.resize(500, 500);
 
 figma.ui.onmessage = async (pluginMessage) => {
+  // send a message back to UI
+  figma.ui.postMessage("Message received!");
   // add error handling
   await figma.loadFontAsync({ family: "Rubik", style: "Regular" });
 

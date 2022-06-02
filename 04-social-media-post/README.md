@@ -17,5 +17,6 @@ A plugin that creates a customizable post for a social media app design.
 - randomizing comments and likes.
 - adding the current time and date.
 - handling scroll and zoom info view.
+- sending a message from the plugin code to the UI.
 
 Based on [Build your first plugin](https://www.youtube.com/playlist?list=PLXDU_eVOJTx5YBAszyuOTyxlgIxkQVyii) by Figma (2022).
