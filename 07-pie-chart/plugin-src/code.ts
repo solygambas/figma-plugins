@@ -23,10 +23,10 @@ figma.ui.onmessage = (msg) => {
       ellipse.constraints = { horizontal: "STRETCH", vertical: "STRETCH" };
       ellipse.arcData = {
         startingAngle: (start / total - 0.25) * 2 * Math.PI,
-        endingAngle: ((start + +num) / total - 0.25) * 2 * Math.PI,
+        endingAngle: ((start + num) / total - 0.25) * 2 * Math.PI,
         innerRadius: 0,
       };
-      start += +num;
+      start += num;
     }
   }
 
