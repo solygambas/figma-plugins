@@ -2,18 +2,32 @@ figma.showUI(__html__, { themeColors: true, height: 300 });
 
 figma.ui.onmessage = (msg) => {
   if (msg.type === "create-pie") {
-    const nodes = [];
-    console.log(msg.numbers);
-    // for (let i = 0; i < msg.count; i++) {
-    //   const rect = figma.createRectangle();
-    //   rect.x = i * 150;
-    //   rect.fills = [{ type: "SOLID", color: { r: 1, g: 0.5, b: 0 } }];
-    //   figma.currentPage.appendChild(rect);
-    //   nodes.push(rect);
-    // }
+    const width = 100;
+    const height = 100;
 
-    // figma.currentPage.selection = nodes;
-    // figma.viewport.scrollAndZoomIntoView(nodes);
+    const frame = figma.createFrame();
+    figma.currentPage.appendChild(frame);
+    frame.resizeWithoutConstraints(width, height);
+
+    let numbers: number[] = msg.numbers.map((x: number) => Math.max(0, x));
+    const total = numbers.reduce((a, b) => a + b, 0);
+    let start = 0;
+    console.log(numbers);
+
+    for (const num of numbers) {
+      const c = Math.sqrt(start / total);
+      const ellipse = figma.createEllipse();
+      frame.appendChild(ellipse);
+      ellipse.resizeWithoutConstraints(width, height);
+      ellipse.fills = [{ type: "SOLID", color: { r: c, g: c, b: c } }];
+      ellipse.constraints = { horizontal: "STRETCH", vertical: "STRETCH" };
+      ellipse.arcData = {
+        startingAngle: (start / total - 0.25) * 2 * Math.PI,
+        endingAngle: ((start + +num) / total - 0.25) * 2 * Math.PI,
+        innerRadius: 0,
+      };
+      start += +num;
+    }
   }
 
   figma.closePlugin();

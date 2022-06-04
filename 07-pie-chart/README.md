@@ -2,14 +2,15 @@
 
 A pie chart generator, using React, Vite and esbuild.
 
-<!-- <p align="center">
+<p align="center">
     <img src="screenshot.png">
-</p> -->
+</p>
 
 ## Features
 
 - using React and Vite.
 - using CSS variables and theming.
+- creating ellipses to generate a pie chart.
 - bundling plugin code using esbuild.
 
 Based on [Figma + FigJam Plugin Samples](https://github.com/figma/plugin-samples) by Figma (2022).
