@@ -1,0 +1,6008 @@
+{
+  "color": {
+    "light part": {
+      "primary": {
+        "description": "Florange 500",
+        "type": "color",
+        "value": "#ec5a13ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:b9c70fb9bfb534fe32ccaa7e1b7101c987540f50,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on primary": {
+        "description": "White",
+        "type": "color",
+        "value": "#ffffffff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:364b4c02dcb5d6cc08eaf45f967b66c0068708cc,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "primary container": {
+        "description": "Florange 50",
+        "type": "color",
+        "value": "#fdece8ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:93aec1c0bbbe7c5d934ea29ed204a04fda2aad26,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on primary container": {
+        "description": "Florange 700",
+        "type": "color",
+        "value": "#89380fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:7d4483dfafed3cefaa39fdee19517b988a86ce59,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "primary variant": {
+        "description": "Florange 600",
+        "type": "color",
+        "value": "#b84a14ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:34ef53138a89272db3d923e7b7024234687ae7d0,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on primary variant": {
+        "description": "White",
+        "type": "color",
+        "value": "#ffffffff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:ff7623461a43e642e74ed37c1f375663a952e48d,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "secondary": {
+        "description": "Violette 500",
+        "type": "color",
+        "value": "#8e2459ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:c5ee9c1bd2d7f2fe89bd1798bbfc1761e9fcd6e4,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on secondary": {
+        "description": "White",
+        "type": "color",
+        "value": "#ffffffff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:6d2c8d7c7ea486f93e7ffca7e1a2c0523ad951eb,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "secondary container": {
+        "description": "Violette 50",
+        "type": "color",
+        "value": "#f6eef2ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:e3823a146c3c327eb66e268c2d54c513a7ffe117,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on secondary container": {
+        "description": "Violette 700",
+        "type": "color",
+        "value": "#531534ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:4293bb3fe61cd0980f949995b03d1304d1b198dd,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "secondary variant": {
+        "description": "Violette 600",
+        "type": "color",
+        "value": "#7a1f4dff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:6672a121b20dbe15ef771978dd4d1e7ebdf63eaf,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on secondary variant": {
+        "description": "White",
+        "type": "color",
+        "value": "#ffffffff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:f86434970d123ae7f5d498881b23aac9752144e4,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "success": {
+        "description": "Salade 500",
+        "type": "color",
+        "value": "#4e9850ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:fc0b95992519ebaf0bc8af930a3c624d4298b288,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on success": {
+        "description": "White",
+        "type": "color",
+        "value": "#ffffffff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:ec3636460882c22f1f2d33189d77ec0d3711dbc5,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "success container": {
+        "description": "Salade 50",
+        "type": "color",
+        "value": "#edf5eeff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:404f1e332567d81d92ccab0d93c854f4e31ba75e,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on success container": {
+        "description": "Salade 700",
+        "type": "color",
+        "value": "#2f5b30ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:3900dc1f7174fb17f62b491c3a41e13a0eaa19c8,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "alert": {
+        "description": "Sunny 500",
+        "type": "color",
+        "value": "#ffaa00ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:e7fa2cf3e411862aaaf280df6d8b435db39d9f54,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on alert": {
+        "description": "Sunny 900",
+        "type": "color",
+        "value": "#14191fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:8225ce67bb1ebc0cec30a85ef6bfbbe363a78bcc,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "alert container": {
+        "description": "Sunny 50",
+        "type": "color",
+        "value": "#fff6e5ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:becac4f3799a7ff38beb8331c4dfa53d0bd16597,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on alert container": {
+        "description": "Sunny 700",
+        "type": "color",
+        "value": "#996600ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:ed3cd14567310b7b488211cfca263cbf878c3c81,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "error": {
+        "description": "Punch 500",
+        "type": "color",
+        "value": "#d93426ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:8234d696d22e11c42a01a4a43e7fc7624b6c671a,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on error": {
+        "description": "White",
+        "type": "color",
+        "value": "#ffffffff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:428da0809786fef5cb2f4e606420bd23083e0d87,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "error container": {
+        "description": "Punch 50",
+        "type": "color",
+        "value": "#fbecebff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:f2c271664b8748921aa0acf6886c02cefb1524d7,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on error container": {
+        "description": "Punch 700",
+        "type": "color",
+        "value": "#822017ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:40508bebf1996dc34340d5a31796c60261d287e6,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "info": {
+        "description": "Azur 500",
+        "type": "color",
+        "value": "#1388ecff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:3c4c2a7aafb26a0aa403c60863f35701e436be12,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on info": {
+        "description": "White",
+        "type": "color",
+        "value": "#ffffffff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:0ef8a82b8b3f88ac56b4482442da092dc5088f70,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "info container": {
+        "description": "Azur 50",
+        "type": "color",
+        "value": "#e7f3fdff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:b5a140c7b86677ecdec54e57cf22bcb69bef283a,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on info container": {
+        "description": "Azur 700",
+        "type": "color",
+        "value": "#0b518eff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:2d03f731038c141ad30e2d0c2f2cc8ee245b1662,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "neutral": {
+        "description": "Bayoux 500",
+        "type": "color",
+        "value": "#627c93ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:101e43167a7c7cdfc6a0ff73d596c2073a352594,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on neutral": {
+        "description": "White",
+        "type": "color",
+        "value": "#ffffffff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:43838eb2f235cc02bf030cc6c569923231a08edf,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "neutral container": {
+        "description": "Bayoux 50",
+        "type": "color",
+        "value": "#f0f5faff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:e8f705d508edfdaeb2d2c3cc07dcda1b09afc803,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on neutral container": {
+        "description": "Bayoux 700",
+        "type": "color",
+        "value": "#3d4d5cff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:4e2023835eb3b619b7bfb2f78d1bdee1850af463,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "background": {
+        "description": "White",
+        "type": "color",
+        "value": "#ffffffff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:47e5ea947b36545dd515be22736b508edc6f108b,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on background": {
+        "description": "Bayoux 900",
+        "type": "color",
+        "value": "#14191fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:3ebe75c12b78d856540c254eeec953b59e609e37,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "surface": {
+        "description": "White",
+        "type": "color",
+        "value": "#ffffffff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:94c393e4b6a510bfa36cb5c1963a3787afcbc945,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on surface": {
+        "description": "Bayoux 900",
+        "type": "color",
+        "value": "#14191fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:747028fe5faadc13e19b03cba10ab523a84055b5,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "surface inverse": {
+        "description": "Bayoux 900",
+        "type": "color",
+        "value": "#14191fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:3a505daed5e3c9f3c9df20480251ecac9ad9b2ae,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on surface inverse": {
+        "description": "White",
+        "type": "color",
+        "value": "#ffffffff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:50575f6eaa4d7931602d7a7657dd32be5fc9dd78,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "outline": {
+        "description": "Bayoux 200",
+        "type": "color",
+        "value": "#bbcdddff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:a5492bef0c1e83976d798ed94d8286788321124f,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "outline inverse": {
+        "description": "Azur 900",
+        "type": "color",
+        "value": "#06233dff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:a718648f942b35bc70affc2c38bb0326e8be6aaa,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "overlay": {
+        "description": "Bayoux 800 α75",
+        "type": "color",
+        "value": "#2b3640bf",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:fff020f184b660bb9a24a5d72a596877b19cf698,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on overlay": {
+        "description": "White",
+        "type": "color",
+        "value": "#ffffffff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:3ae7842ca979f216536b2e707dafc808c3201969,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on surface dim 1 (text)": {
+        "description": "Bayoux 900 α72",
+        "type": "color",
+        "value": "#14191fb8",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:76bfc1d9e83e5e4c8435e4419ccc1aa68d8bb120,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on surface dim 2 (icon)": {
+        "description": "Bayoux 900 α68",
+        "type": "color",
+        "value": "#14191fa8",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:b13edfeeb65c8d6b86c19572964131ad1480c8d9,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on surface dim 3 (disabled)": {
+        "description": "Bayoux 900 α40",
+        "type": "color",
+        "value": "#14191f66",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:07b69a6b82cb7b0bcd47e2579058ac0b9d9aeb08,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on surface dim 4 (low elements)": {
+        "description": "Bayoux 900 α16",
+        "type": "color",
+        "value": "#14191f29",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:a12c5ed10fa86768744e7adcc682b7e61da8422a,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on surface dim 5 (press & ripple surfaces)": {
+        "description": "Bayoux 900 α8",
+        "type": "color",
+        "value": "#14191f14",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:072be673107e21d60baa4417d32f3a72193fc171,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "primary dim 1 (text)": {
+        "description": "Florange 500 α72",
+        "type": "color",
+        "value": "#ec5a13b8",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:a89242298fc4587f9a77cffb59bb164eb0a2c7af,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "primary dim 2 (icon)": {
+        "description": "Florange 500 α68",
+        "type": "color",
+        "value": "#ec5a13ad",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:419cb55da207b3441cb0c1f803ba7544120b477a,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "primary dim 3 (disabled)": {
+        "description": "Florange 500 α40",
+        "type": "color",
+        "value": "#ec5a1366",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:94919703aebe70497c13337509352f9d7f9cea18,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "primary dim 4 (low elements)": {
+        "description": "Florange 500 α16",
+        "type": "color",
+        "value": "#ec5a1329",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:d983d43d450719ae5dae28aae5a5aa5a515ff184,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "primary dim 5 (press & ripple surface)": {
+        "description": "Florange 500 α4",
+        "type": "color",
+        "value": "#ec5a1314",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:721e1003bc9e752c0305c07f62f614265ef5b8e4,",
+            "exportKey": "color"
+          }
+        }
+      }
+    },
+    "dark part": {
+      "primary": {
+        "description": "Florange 400",
+        "type": "color",
+        "value": "#f07b42ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:f5e0471fab9e750d53ba8be8a2c23c6613981b91,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on primary": {
+        "description": "Bayoux 900",
+        "type": "color",
+        "value": "#14191fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:01f9c4c3f0bab9fab247657241e7708750527557,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "primary container": {
+        "description": "Florange 800",
+        "type": "color",
+        "value": "#5c250aff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:2c0654eb5301fe87615203dd5bd1c160cefa3c42,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on primary container": {
+        "description": "Florange 100",
+        "type": "color",
+        "value": "#fbdfd1ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:f4bfa294f1f064c5662ff6c1ef82329536b2016c,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "primary variant": {
+        "description": "Florange 200",
+        "type": "color",
+        "value": "#f7bea1ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:26cd5844f5997757bcd66f55c153ca862f24e3d3,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on primary variant": {
+        "description": "Bayoux 900",
+        "type": "color",
+        "value": "#14191fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:493fd76b55a7b4acc1e50b10810886a2ab2bc82a,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "secondary": {
+        "description": "Violette 300",
+        "type": "color",
+        "value": "#b87c9aff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:bd9d745e6ddbdd6928f0b2e17fd487e4e085762f,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on secondary": {
+        "description": "Bayoux 900",
+        "type": "color",
+        "value": "#14191fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:70d95245339a51d2d12d35ab7b29c9c6178a02a4,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "secondary container": {
+        "description": "Violette 800",
+        "type": "color",
+        "value": "#3d0f26ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:f5f59598c6a590cf97d5480c5f29e42c63c026e5,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on secondary container": {
+        "description": "Violette 100",
+        "type": "color",
+        "value": "#eddee5ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:7d5ada7b4cc27207b336b989864763eb11c315e3,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "secondary variant": {
+        "description": "Violette 200",
+        "type": "color",
+        "value": "#dcbdccff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:0d1daccff09f13ad4d9aef5832c09f55a1d02e60,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on secondary variant": {
+        "description": "Bayoux 900",
+        "type": "color",
+        "value": "#141b1fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:e40fad3c5bb34dfd07afad2841b601320e0ce145,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "success": {
+        "description": "Salade 400",
+        "type": "color",
+        "value": "#71ad73ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:3d43e0d60bd69b02d3a02db15df82d3275269351,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on success": {
+        "description": "Bayoux 900",
+        "type": "color",
+        "value": "#14191fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:2c4bc2c5f6c142af7960cd24289e700067224407,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "success container": {
+        "description": "Salade 800",
+        "type": "color",
+        "value": "#1f3d20ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:9b3a73f748a9a87f2cb93c2037abf23a6a4ea758,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on success container": {
+        "description": "Salade 100",
+        "type": "color",
+        "value": "#dceadcff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:6f5622e24d79bdb522ee0b5abbaf72d819b1df30,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "alert": {
+        "description": "Sunny 300",
+        "type": "color",
+        "value": "#ffcc66ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:b32f7e93ee094b3f41579411e90d21a9e6c7c6c2,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on alert": {
+        "description": "Bayoux 900",
+        "type": "color",
+        "value": "#14191fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:9c1f7dbc0770c600bdfe5fdd6ab69bf9ac2a892d,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "alert container": {
+        "description": "Sunny 800",
+        "type": "color",
+        "value": "#664400ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:db0424493acf3ec247a4c0182ce0f45b9686fde0,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on alert container": {
+        "description": "Sunny 100",
+        "type": "color",
+        "value": "#ffeeccff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:440574650d4409e688683766cc5df574a7381d4e,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "error": {
+        "description": "Punch 400",
+        "type": "color",
+        "value": "#e05d52ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:bb4fa26111b75f7ceaca5f65fa3a5ae3330812f5,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on error": {
+        "description": "Bayoux 900",
+        "type": "color",
+        "value": "#14191fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:e097451f38db8c3bbf0f90fdac4962008413e0c4,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "error container": {
+        "description": "Punch 800",
+        "type": "color",
+        "value": "#57150fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:bed4f0f8be17b9ccd50b93d5c9933fef8fca91f9,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on error container": {
+        "description": "Punch 100",
+        "type": "color",
+        "value": "#f7d7d4ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:83e20bcf5004f35b007f3ca4f1c3d664e1927719,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "info": {
+        "description": "Azur 400",
+        "type": "color",
+        "value": "#429ff0ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:3326049ead9146473d385ff1b0daf6d627481dbd,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on info": {
+        "description": "Bayoux 900",
+        "type": "color",
+        "value": "#14191fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:ec9081671a8e7cc021e4c51c3ee14e76a0835012,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "info container": {
+        "description": "Azur 800",
+        "type": "color",
+        "value": "#08365dff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:805629e120b43f2b84ccf260b085e89b88ed8384,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on info container": {
+        "description": "Azur 100",
+        "type": "color",
+        "value": "#cfe6fbff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:6ae9203664d2f9b3f558bd747cc6dda7cfc4bb33,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "neutral": {
+        "description": "Bayoux 400",
+        "type": "color",
+        "value": "#7f95a9ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:84b4273273da2c9901638fb12bc107a53653d504,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on neutral": {
+        "description": "Bayoux 900",
+        "type": "color",
+        "value": "#14191fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:a7ba8e46588469f3d9296b4a84e82aadd62a4dc8,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "neutral container": {
+        "description": "Bayoux 800",
+        "type": "color",
+        "value": "#2b3640ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:02c52c3076a47bdb01a6780018ebef1d49672b35,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on neutral container": {
+        "description": "Bayoux 100",
+        "type": "color",
+        "value": "#dae6f1ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:076ed7729c204c19ac38de26a11b786c077fdb85,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "background": {
+        "description": "Bayoux 900",
+        "type": "color",
+        "value": "#14191fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:7060016199e5dfafc3bcb772f6281566d059916d,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on background": {
+        "description": "Bayoux 25",
+        "type": "color",
+        "value": "#f7fafdff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:dcaead0a2c0d8bf4a551c0f5215f6afe6f93f2de,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "surface": {
+        "description": "Bayoux 900",
+        "type": "color",
+        "value": "#14191fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:58e993f0407b15728a8532dbb78a320ba6e93c2f,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on surface": {
+        "description": "White",
+        "type": "color",
+        "value": "#f7fafdff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:ec7daf82d24da375c13ef1a8f7698c41df38be67,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "surface inverse": {
+        "description": "Bayoux 50",
+        "type": "color",
+        "value": "#f0f5faff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:7861bf5b43529c0696828a5d5138ba7cc114863b,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on surface inverse": {
+        "description": "Bayoux 900",
+        "type": "color",
+        "value": "#14191fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:79fb9ed9748bcabbfc5ccea4b20405e8f0f12efc,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "outline": {
+        "description": "Bayoux 700",
+        "type": "color",
+        "value": "#3d4d5cff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:54fa49cca651e374a04b635bdba87b25c8cbe539,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "outline inverse": {
+        "description": "Azur 50",
+        "type": "color",
+        "value": "#e7f3fdff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:7755ea3159819002b9805bb8e545c7614aba0cc5,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "overlay": {
+        "description": "Bayoux 800 α75",
+        "type": "color",
+        "value": "#2b3640bf",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:1e1c5569ca4ebbce0821f31e8982aecee5ca5673,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on overlay": {
+        "description": "White",
+        "type": "color",
+        "value": "#ffffffff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:ce5c18cbc147aa8de67e3c4154137898ef0ca74f,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on surface dim 1 (text)": {
+        "description": "White α72",
+        "type": "color",
+        "value": "#f7fafdb8",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:ac9dfef5c6ab3821234206da15003d8451da8c17,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on surface dim 2 (icon)": {
+        "description": "White α68",
+        "type": "color",
+        "value": "#f7fafdad",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:f1a5b169c4f6ec1a19d4d03702ad0e2fb9d6211f,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on surface dim 3 (disabled)": {
+        "description": "White α40",
+        "type": "color",
+        "value": "#f7fafd66",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:4308bc2a4cb1247253e5ac9161d9df41883849ce,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on surface dim 4 (low elements)": {
+        "description": "White α16",
+        "type": "color",
+        "value": "#f7fafd29",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:3e2935e6c32c72c65145ce4ab6f6435f20d30340,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "on surface dim 5 (press & ripple surfaces)": {
+        "description": "White α8",
+        "type": "color",
+        "value": "#f7fafd14",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:6928a6e977a5ab3ba17ad0738215f27b7d4f51ae,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "primary dim 1 (text)": {
+        "description": "Florange 400 α72",
+        "type": "color",
+        "value": "#f07b42b8",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:24d3d10370e6d1d1efd8d3d02edb3b8b5cfdda1b,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "primary dim 2 (icon)": {
+        "description": "Florange 400 α68",
+        "type": "color",
+        "value": "#f07b42ad",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:a30139e056f96641e17ef4b1fe068b82fbb095a7,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "primary dim 3 (disabled)": {
+        "description": "Florange 400 α40",
+        "type": "color",
+        "value": "#f07b4266",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:5bee84eb0a92c40e83b4db06987870c04249703b,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "primary dim 4 (low elements)": {
+        "description": "Florange 400 α16",
+        "type": "color",
+        "value": "#f07b4229",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:90426392b764a97dfbce66da304e499765a12a00,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "primary dim 5 (press & ripple surfaces)": {
+        "description": "Florange 400 α8",
+        "type": "color",
+        "value": "#f07b4214",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:0b4fe5eb80f8cfb1808f613a19ec35c6f0c00051,",
+            "exportKey": "color"
+          }
+        }
+      }
+    },
+    "brand": {
+      "florange 50": {
+        "description": "",
+        "type": "color",
+        "value": "#fdefe8ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:8b1b5f029d554b0d9ba8b23a7b7cae483fa719ff,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "florange 100": {
+        "description": "",
+        "type": "color",
+        "value": "#fbdfd1ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:2692816d26411d9bafdb9828e30875ef517d5ec7,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "florange 200": {
+        "description": "",
+        "type": "color",
+        "value": "#f7bea1ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:ecae5a425425204cbf00ee0e2f8313d05b2c5fb5,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "florange 300": {
+        "description": "",
+        "type": "color",
+        "value": "#f49d71ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:9d4ae6463e932a63cac9770892d45629ac4a70a8,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "florange 400": {
+        "description": "",
+        "type": "color",
+        "value": "#f07b42ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:0c93488b516227a90af850a7848b630cb0260c7e,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "florange 500": {
+        "description": "Base",
+        "type": "color",
+        "value": "#ec5a13ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:1cf0dcdb8ec19e0e36a5f50211f998463df6c849,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "florange 600": {
+        "description": "",
+        "type": "color",
+        "value": "#b84a14ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:1c80b7554223d2897e5bbf4520395fb2835c4250,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "florange 700": {
+        "description": "",
+        "type": "color",
+        "value": "#89380fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:936a2cbd1bf98b292201273be83bab3c83ab3a10,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "florange 800": {
+        "description": "",
+        "type": "color",
+        "value": "#5c250aff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:a96bb5b88511df218e1d24a58f89e47dd2804ed2,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "florange 900": {
+        "description": "",
+        "type": "color",
+        "value": "#2f1305ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:850aaa87e31eeeec72a6990a57cf377240ea801a,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "violette 50": {
+        "description": "",
+        "type": "color",
+        "value": "#f6eef2ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:6ed7780e048819ceaf39bf0007f2531906a72533,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "violette 100": {
+        "description": "",
+        "type": "color",
+        "value": "#eddee5ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:1e0069955689eba5649404a8acbd99f5b397ca4a,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "violette 200": {
+        "description": "",
+        "type": "color",
+        "value": "#dcbdccff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:c5b55191084bffadffdc33fe76f796996c3b0741,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "violette 300": {
+        "description": "",
+        "type": "color",
+        "value": "#b87c9aff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:1daaf7bdebb43ad917a531490a89d0cdbce395a6,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "violette 400": {
+        "description": "",
+        "type": "color",
+        "value": "#a65980ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:ef80238b568f65561bc10b1d93f3831a23a14654,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "violette 500": {
+        "description": "Base",
+        "type": "color",
+        "value": "#8e2459ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:a36b401d388b52100858a3c9576c071bf0598125,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "violette 600": {
+        "description": "",
+        "type": "color",
+        "value": "#7a1f4dff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:16cb83df2bb08ad6c27024ae2918e2035a88d828,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "violette 700": {
+        "description": "",
+        "type": "color",
+        "value": "#531534ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:121667e6c37ed626cce34701bf8a7a9e7533c802,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "violette 800": {
+        "description": "",
+        "type": "color",
+        "value": "#3d0f26ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:dfc45cb0831dea2d0d6ad599679532e212c7502f,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "violette 900": {
+        "description": "",
+        "type": "color",
+        "value": "#14050dff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:699779cb478c383a97508efaddf6b07baaa0f494,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "azur 50": {
+        "description": "",
+        "type": "color",
+        "value": "#e7f3fdff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:e9ac9b7517f227c5ee10278141f1e70db60856ee,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "azur 100": {
+        "description": "",
+        "type": "color",
+        "value": "#cfe6fbff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:68b6e51d937b8ee5a6e259388e6cb440124622a5,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "azur 200": {
+        "description": "",
+        "type": "color",
+        "value": "#a0cff7ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:045d65ea6ac13729c931401110ce3d13d009b8c8,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "azur 300": {
+        "description": "",
+        "type": "color",
+        "value": "#71b7f4ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:7df3cc24329903ad06de882ce062b66b0f59ae89,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "azur 400": {
+        "description": "",
+        "type": "color",
+        "value": "#429ff0ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:20ede29318953d7463b51c0c299077a04b610cda,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "azur 500": {
+        "description": "",
+        "type": "color",
+        "value": "#1388ecff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:79a5908c52743ec0c27327ed9293c08db3eef440,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "azur 600": {
+        "description": "",
+        "type": "color",
+        "value": "#0f6cbdff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:665deec4b2177cf7c798c728eb78a23c5515bb63,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "azur 700": {
+        "description": "",
+        "type": "color",
+        "value": "#0b518eff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:8b652aba5df17274f47fceb045db1414f91c51ce,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "azur 800": {
+        "description": "",
+        "type": "color",
+        "value": "#08365dff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:38bd3010b08ac12fbd75f657a24c0a3b8416271a,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "azur 900": {
+        "description": "",
+        "type": "color",
+        "value": "#06233dff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:be9c848f54772946ec62bf7c91890573561f2d50,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "salade 50": {
+        "description": "",
+        "type": "color",
+        "value": "#edf5eeff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:4067d937fb48a1aab2f808cd4a26eb8688326b73,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "salade 100": {
+        "description": "",
+        "type": "color",
+        "value": "#dceadcff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:85b8463659ed1794c7ef722bc9d5c31b5899fd7e,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "salade 200": {
+        "description": "",
+        "type": "color",
+        "value": "#b8d6b9ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:626e7c507d468ba577125abe3741ac9a2f885e3c,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "salade 300": {
+        "description": "",
+        "type": "color",
+        "value": "#95c196ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:e6b5b734d8ed12ac44b404ff14715de643f57ee9,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "salade 400": {
+        "description": "",
+        "type": "color",
+        "value": "#71ad73ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:bf53b176a7cddbf37172aef9103efbfd0de920cf,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "salade 500": {
+        "description": "",
+        "type": "color",
+        "value": "#4e9850ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:925694a5cbce7a8273eb0025934137492a6e8341,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "salade 600": {
+        "description": "",
+        "type": "color",
+        "value": "#3e7a40ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:e78a1be9d18ff4f443e381da9f62acdc8806c946,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "salade 700": {
+        "description": "",
+        "type": "color",
+        "value": "#2f5b30ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:8ed2ba032050851c33ca55b7670e7ec9904f711b,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "salade 800": {
+        "description": "",
+        "type": "color",
+        "value": "#1f3d20ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:a03dcafab914bb4de30e8d5f64fde193a4c493bd,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "salade 900": {
+        "description": "",
+        "type": "color",
+        "value": "#101e10ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:f4624dd7d2875ae26d9521aa3feeb38680027bac,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "punch 50": {
+        "description": "",
+        "type": "color",
+        "value": "#fbecebff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:42fbc493ef271d054b5e650d4cb09b2a8c70a9e8,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "punch 100": {
+        "description": "",
+        "type": "color",
+        "value": "#f7d7d4ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:9ce5ff3708bd4f25b84204b25cc9c2b77e028280,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "punch 200": {
+        "description": "",
+        "type": "color",
+        "value": "#f0aea8ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:f65123979da7431ba7bf9657ba55302a77a995d0,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "punch 300": {
+        "description": "",
+        "type": "color",
+        "value": "#e8867dff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:4286c0d44fb4c9e7df8a4a2ced2ec3e3fe3c4bd7,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "punch 400": {
+        "description": "",
+        "type": "color",
+        "value": "#e05d52ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:7db24e0c2a631f45bc6a15037731beee032e1884,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "punch 500": {
+        "description": "Base",
+        "type": "color",
+        "value": "#d93426ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:0a728ece5a754c6c404dfcf1d36bbbe0c0d2f9c4,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "punch 600": {
+        "description": "",
+        "type": "color",
+        "value": "#ad291fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:b32336fdf67835957dcdc64d99f3ba269f84b42e,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "punch 700": {
+        "description": "",
+        "type": "color",
+        "value": "#822017ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:307236d38ff8b2cbe9a87bb56326b147c2db09d2,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "punch 800": {
+        "description": "",
+        "type": "color",
+        "value": "#57150fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:ec3f62b5655892ed104203878a693449877110f9,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "punch 900": {
+        "description": "",
+        "type": "color",
+        "value": "#2b0b08ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:840d7dbbce3b25b5655192f73f507af7f1568a74,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "sunny 50": {
+        "description": "",
+        "type": "color",
+        "value": "#fff6e5ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:87bccb4fcd811f670665ad3d8da389efcb4692dd,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "sunny 100": {
+        "description": "",
+        "type": "color",
+        "value": "#ffeeccff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:994df699487c7127e0711fed046678e62ddfa425,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "sunny 200": {
+        "description": "",
+        "type": "color",
+        "value": "#ffdd99ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:5605cf362d7486bd3639d4ed7adca50cea62b719,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "sunny 300": {
+        "description": "",
+        "type": "color",
+        "value": "#ffcc66ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:f2a010d18a1a326cccbdd32ea8e62858cd53287c,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "sunny 400": {
+        "description": "",
+        "type": "color",
+        "value": "#ffbb33ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:40647b90eb40e06c94e8920ce08b6f605c16b430,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "sunny 500": {
+        "description": "Base",
+        "type": "color",
+        "value": "#ffaa00ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:3510a03ae550864c8bf15d3f745c40ac4338e6f6,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "sunny 600": {
+        "description": "",
+        "type": "color",
+        "value": "#cc8800ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:d478fc34b5b9d27505c2f39430bd1535f5175eb9,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "sunny 700": {
+        "description": "",
+        "type": "color",
+        "value": "#996600ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:be82d874747a16a628ae447cf807635eca4eae72,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "sunny 800": {
+        "description": "",
+        "type": "color",
+        "value": "#664400ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:43dfe63ffff3d8d44dd627c7cec1b38dcb0c4b7c,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "sunny 900": {
+        "description": "",
+        "type": "color",
+        "value": "#332200ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:fa586164b46ee478117dd7dd37749e4b4ff29d4e,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "bayoux 25": {
+        "description": "",
+        "type": "color",
+        "value": "#f7fafdff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:e6808a3e50532583fee2040c093eb4718697bdaf,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "bayoux 50": {
+        "description": "",
+        "type": "color",
+        "value": "#f0f5faff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:e09d7e35b7f0e6775404a2d31b42dc11b6bf58e1,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "bayoux 100": {
+        "description": "",
+        "type": "color",
+        "value": "#dae6f1ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:288c1e042fc5b912a5679dcfe7a7b4d4019d82be,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "bayoux 200": {
+        "description": "",
+        "type": "color",
+        "value": "#bbcdddff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:2c12d3634b432bd15eb41807ba5f827daaee21e0,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "bayoux 300": {
+        "description": "",
+        "type": "color",
+        "value": "#a3b4c2ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:014cdd582d4b77d933cbd3f4630b07dc113edff5,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "bayoux 400": {
+        "description": "",
+        "type": "color",
+        "value": "#7f95a9ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:af23f7bfb65e2c3c257194f2ed9899303bd026f1,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "bayoux 500": {
+        "description": "Base",
+        "type": "color",
+        "value": "#627c93ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:938dacb42b5b88eef01f1a45e1b6260d411c1536,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "bayoux 600": {
+        "description": "",
+        "type": "color",
+        "value": "#4e6579ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:4e52ccb0c8fb04f9fe4fd6d66eed6184cd3b8a63,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "bayoux 700": {
+        "description": "",
+        "type": "color",
+        "value": "#3d4d5cff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:4d10af8d3d2ede2918f6af5efa42679b81e1f256,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "bayoux 800": {
+        "description": "",
+        "type": "color",
+        "value": "#2b3640ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:b32a136707e8f8fe421ca7e355036b07972c230c,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "bayoux 900": {
+        "description": "",
+        "type": "color",
+        "value": "#14191fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:9766c5ab0ccfb8989c4df6a37322f7cef337dd8e,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "white": {
+        "description": "",
+        "type": "color",
+        "value": "#ffffffff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:4ad9793c6df20e6c613798b7cff262c88d2403c7,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "facebook": {
+        "description": "",
+        "type": "color",
+        "value": "#4267b2ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:4a208dd924d10821747dbb087890c7358e6b5bff,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "twitter": {
+        "description": "",
+        "type": "color",
+        "value": "#1da1f2ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:6e32cef3fbc3897270b7697ad44e63eb55e2ea91,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "whatsapp": {
+        "description": "",
+        "type": "color",
+        "value": "#25d366ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:748eb617c3284d881468f11f792c8b795483f841,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "youtube": {
+        "description": "",
+        "type": "color",
+        "value": "#ff0000ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:1e7333387fc1314b9995d87de2b78d96b4cef21c,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "instagram": {
+        "description": "",
+        "type": "color",
+        "value": "#e1306cff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:92a52c3a5a7b456bca6a62b9cdafec6006936bdc,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "tiktok": {
+        "description": "",
+        "type": "color",
+        "value": "#000000ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:07fdf3ec8396393b9eaf76bf85c73038362dd62b,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "telegram": {
+        "description": "",
+        "type": "color",
+        "value": "#0088ccff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:15a0dcba6c60d55a162e7bcc904157c64ceffebe,",
+            "exportKey": "color"
+          }
+        }
+      }
+    }
+  },
+  "gradient": {
+    "light part": {
+      "primary gradient": {
+        "description": "Florange 50 & 100",
+        "type": "custom-gradient",
+        "value": {
+          "gradientType": "linear",
+          "rotation": 147.46683142489238,
+          "stops": [
+            {
+              "position": 0,
+              "color": "#fdebe8ff"
+            },
+            {
+              "position": 1,
+              "color": "#fbdfd1ff"
+            }
+          ]
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:212a688825122caac176a0f6269672caeb058649,",
+            "exportKey": "gradient"
+          }
+        }
+      }
+    },
+    "dark part": {
+      "primary gradient": {
+        "description": "Florange 500 24% & 8%",
+        "type": "custom-gradient",
+        "value": {
+          "gradientType": "linear",
+          "rotation": 148.29987024072278,
+          "stops": [
+            {
+              "position": 0,
+              "color": "#ec5a133d"
+            },
+            {
+              "position": 1,
+              "color": "#ec5a1314"
+            }
+          ]
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:13d31a2741f3bf63c1a964a632a032813a7fa3a9,",
+            "exportKey": "gradient"
+          }
+        }
+      }
+    }
+  },
+  "font": {
+    "desktop": {
+      "display": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 64,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 75,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:bec158ea266d0b842973403dfe8c27c802189d7f,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "headline 1": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 56,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 65,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:d1600b9296a1bce158039372368f16b04e413178,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "headline 2": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 48,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 56,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:cfa8260de9b9bfccf84693fa5f9f15c1c393314b,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "headline 3": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 40,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 47,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:1673c5a3d6f3c268c8d77a285e658617194d5eab,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "headline 4": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 32,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 37,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:6490048c447613bf56612ae24d92286ea5b65b28,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "headline 5": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 24,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 28,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:9861f41451c8e367fe860a6a982eb9e6447c7ca5,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "subhead 1": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 20,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 23,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:a25f6fb3b0d32a419c3c0b98488a282e1326277f,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "subhead 2": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 16,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 19,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:3e20986d3f57e8a3abf96f8ef8942230cbee8493,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "overline": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 12,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 500,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 14,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "uppercase"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:c69594509aff995036b43bb5e51016f248f891ed,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "button 1": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 16,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 19,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:f5e607a7018fad58fd81980de2d2c69276ecaf4a,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "button 2": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 14,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 16,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:6e692ce2f89f5940f19051f932fae90642969094,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "body 1": {
+        "regular": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 16,
+            "textDecoration": "none",
+            "fontFamily": "Roboto",
+            "fontWeight": 400,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 19,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:46a23c6965a6a2680b94658436ecb5e96aeeab5f,",
+              "exportKey": "font"
+            }
+          }
+        },
+        "medium": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 16,
+            "textDecoration": "none",
+            "fontFamily": "Roboto",
+            "fontWeight": 500,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 19,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:ffc3983eb3ed616ba591890bca61bebd07b9ca2e,",
+              "exportKey": "font"
+            }
+          }
+        }
+      },
+      "body 2": {
+        "regular": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 14,
+            "textDecoration": "none",
+            "fontFamily": "Roboto",
+            "fontWeight": 400,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 16,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:edbb4241d07d776fad25f5cf0d5c6e7ced6f6311,",
+              "exportKey": "font"
+            }
+          }
+        },
+        "medium": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 14,
+            "textDecoration": "none",
+            "fontFamily": "Roboto",
+            "fontWeight": 500,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 16,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:1546c2b382cab29ef1c822f6e683f0fbd9235622,",
+              "exportKey": "font"
+            }
+          }
+        }
+      },
+      "caption": {
+        "regular": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 12,
+            "textDecoration": "none",
+            "fontFamily": "Roboto",
+            "fontWeight": 400,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 14,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:b245be333d5e752242c7cf0fc9a76ba35fa08615,",
+              "exportKey": "font"
+            }
+          }
+        },
+        "medium": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 12,
+            "textDecoration": "none",
+            "fontFamily": "Roboto",
+            "fontWeight": 500,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 14,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:c51c5129f4aeb32e9408b41d917e44d9c9817efe,",
+              "exportKey": "font"
+            }
+          }
+        }
+      },
+      "legal": {
+        "regular": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 10,
+            "textDecoration": "none",
+            "fontFamily": "Roboto",
+            "fontWeight": 400,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 12,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:a051289a7ef89278ca0b49886dc0b98af8a5914e,",
+              "exportKey": "font"
+            }
+          }
+        },
+        "medium": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 10,
+            "textDecoration": "none",
+            "fontFamily": "Roboto",
+            "fontWeight": 500,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 12,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:aff9d31c0d97f64cf072e7577e3534499a3cf7f1,",
+              "exportKey": "font"
+            }
+          }
+        }
+      },
+      "link caption": {
+        "regular": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 12,
+            "textDecoration": "underline",
+            "fontFamily": "Roboto",
+            "fontWeight": 400,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 14,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:018e854f39b51741285f253a573295de81ec5dbb,",
+              "exportKey": "font"
+            }
+          }
+        },
+        "medium": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 12,
+            "textDecoration": "underline",
+            "fontFamily": "Roboto",
+            "fontWeight": 500,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 14,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:7dec37a8eec262b9221258cdb8fb998ab04afeae,",
+              "exportKey": "font"
+            }
+          }
+        }
+      },
+      "link body1": {
+        "regular": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 16,
+            "textDecoration": "underline",
+            "fontFamily": "Roboto",
+            "fontWeight": 400,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 19,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:3d65c156409e44d0aa1673b93141e68aa65bfbd3,",
+              "exportKey": "font"
+            }
+          }
+        },
+        "medium": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 16,
+            "textDecoration": "underline",
+            "fontFamily": "Roboto",
+            "fontWeight": 500,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 19,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:66d7d4b0f053f3e72f2c97d97a7a1297bfa4d874,",
+              "exportKey": "font"
+            }
+          }
+        }
+      },
+      "link body2": {
+        "regular": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 14,
+            "textDecoration": "underline",
+            "fontFamily": "Roboto",
+            "fontWeight": 400,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 16,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:16b362f279b0c32f9a7931bd9273640113ebe381,",
+              "exportKey": "font"
+            }
+          }
+        },
+        "medium": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 14,
+            "textDecoration": "underline",
+            "fontFamily": "Roboto",
+            "fontWeight": 500,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 16,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:8ef61b613cb4a988f9c42087992ec0a8cc1c93e6,",
+              "exportKey": "font"
+            }
+          }
+        }
+      },
+      "link legal": {
+        "regular": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 10,
+            "textDecoration": "underline",
+            "fontFamily": "Roboto",
+            "fontWeight": 400,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 12,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:2c7f7d83dc06a8a45f97e376136794f79a3277ce,",
+              "exportKey": "font"
+            }
+          }
+        },
+        "medium": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 10,
+            "textDecoration": "underline",
+            "fontFamily": "Roboto",
+            "fontWeight": 500,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 12,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:3eb7976cc3a5b9f47861c06f8b47babcc068b203,",
+              "exportKey": "font"
+            }
+          }
+        }
+      }
+    },
+    "mobile & apps": {
+      "display": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 40,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 47,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:5b38b0c913e634138dd45fbbe2580bbb450bf261,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "headline 1": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 32,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 38,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:9c8af871f0936d33446c06e39eaedc88a8e51e0a,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "headline 2": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 28,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 33,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:3f49928787168c08c65cce27aa6c44761947c3b1,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "headline 3": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 26,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 31,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:19310907a90152a07541c2b4919b567559a9bd3f,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "headline 4": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 24,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 28,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:f32da4ccae8d0541a11884cfa5bdf7ef90e95cad,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "headline 5": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 20,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 23,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:aed576647489efb4760e52ee595326c57b384574,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "subhead 1": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 18,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 21,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:60ad058ff44eccade0f393bb910e192263d15370,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "subhead 2": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 16,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 19,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:b822f45c01e5755397a419e5c49100c6195847f9,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "overline": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 12,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 500,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 14,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "uppercase"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:72aa5e7078626426441974d9d2c9c0002aa51a4b,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "button 1": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 14,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 19,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:86fe92639dc15e0920f71eaba51b1bfd16ffb80a,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "button 2": {
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 14,
+          "textDecoration": "none",
+          "fontFamily": "Roboto",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 16,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:9d62b440fff3294a1ffd3a7c54bd72e3e38a8752,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "body 1": {
+        "regular": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 16,
+            "textDecoration": "none",
+            "fontFamily": "Roboto",
+            "fontWeight": 400,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 19,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:5eed6892c3aee7a840ba7f0d3d3931895b065ae2,",
+              "exportKey": "font"
+            }
+          }
+        },
+        "medium": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 16,
+            "textDecoration": "none",
+            "fontFamily": "Roboto",
+            "fontWeight": 500,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 19,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:e8c8da2ed7279e93bb668f9b71e1e26924da7611,",
+              "exportKey": "font"
+            }
+          }
+        }
+      },
+      "body 2": {
+        "regular": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 14,
+            "textDecoration": "none",
+            "fontFamily": "Roboto",
+            "fontWeight": 400,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 16,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:9f5d93ecd08e7be20598c610d423cadc63a63a39,",
+              "exportKey": "font"
+            }
+          }
+        },
+        "medium": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 14,
+            "textDecoration": "none",
+            "fontFamily": "Roboto",
+            "fontWeight": 500,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 16,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:eba034f8c5299776aec05eeccb58f4e76e41eb9a,",
+              "exportKey": "font"
+            }
+          }
+        }
+      },
+      "caption": {
+        "regular": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 12,
+            "textDecoration": "none",
+            "fontFamily": "Roboto",
+            "fontWeight": 400,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 14,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:f196165e786293cde0dfad520bbdb4beecc3e31f,",
+              "exportKey": "font"
+            }
+          }
+        },
+        "medium": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 12,
+            "textDecoration": "none",
+            "fontFamily": "Roboto",
+            "fontWeight": 500,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 14,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:3b8c40b7178a609ed054c7ba371bbfbc5eb4a7a6,",
+              "exportKey": "font"
+            }
+          }
+        }
+      },
+      "legal": {
+        "regular": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 10,
+            "textDecoration": "none",
+            "fontFamily": "Roboto",
+            "fontWeight": 400,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 12,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:a1e279dae2276484d730d09d4dcf60cab7eedb99,",
+              "exportKey": "font"
+            }
+          }
+        },
+        "medium": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 10,
+            "textDecoration": "none",
+            "fontFamily": "Roboto",
+            "fontWeight": 500,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 12,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:4be5155938cd6d8e6f0744ac7091de7e99f8bb59,",
+              "exportKey": "font"
+            }
+          }
+        }
+      },
+      "link body 1": {
+        "regular": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 16,
+            "textDecoration": "underline",
+            "fontFamily": "Roboto",
+            "fontWeight": 400,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 19,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:46477038f900a1891e0374e2a90017a2a3754366,",
+              "exportKey": "font"
+            }
+          }
+        },
+        "medium": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 16,
+            "textDecoration": "underline",
+            "fontFamily": "Roboto",
+            "fontWeight": 500,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 19,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:9c2eca4605c39502cc697d2ee91b12c87d7612c9,",
+              "exportKey": "font"
+            }
+          }
+        }
+      },
+      "link body 2": {
+        "regular": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 14,
+            "textDecoration": "underline",
+            "fontFamily": "Roboto",
+            "fontWeight": 400,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 16,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:d578f6516dd106f1619152e05d9995f05a8fd2b5,",
+              "exportKey": "font"
+            }
+          }
+        },
+        "medium": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 14,
+            "textDecoration": "underline",
+            "fontFamily": "Roboto",
+            "fontWeight": 500,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 16,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:526dd35df71884a7eebc013969ded5ead00f5b8e,",
+              "exportKey": "font"
+            }
+          }
+        }
+      },
+      "link caption": {
+        "regular": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 12,
+            "textDecoration": "underline",
+            "fontFamily": "Roboto",
+            "fontWeight": 400,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 14,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:6ea4708a3fa1e0f6055d8083f4ad883a8d2ea352,",
+              "exportKey": "font"
+            }
+          }
+        },
+        "medium": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 12,
+            "textDecoration": "underline",
+            "fontFamily": "Roboto",
+            "fontWeight": 500,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 14,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:3c9bb53860c205b5576d9a0a54a2506f413cd68f,",
+              "exportKey": "font"
+            }
+          }
+        }
+      },
+      "link legal": {
+        "regular": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 10,
+            "textDecoration": "underline",
+            "fontFamily": "Roboto",
+            "fontWeight": 400,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 12,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:a1dbda18d9513ee4b9706bfb8c42903db2e6cd97,",
+              "exportKey": "font"
+            }
+          }
+        },
+        "medium": {
+          "type": "custom-fontStyle",
+          "value": {
+            "fontSize": 10,
+            "textDecoration": "underline",
+            "fontFamily": "Roboto",
+            "fontWeight": 500,
+            "fontStyle": "normal",
+            "fontStretch": "normal",
+            "letterSpacing": 0,
+            "lineHeight": 12,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "none"
+          },
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:eef4a5c410caf9d10a185c1cbdfb80555eb991c1,",
+              "exportKey": "font"
+            }
+          }
+        }
+      }
+    }
+  },
+  "typography": {
+    "desktop": {
+      "display": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 64
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 75
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "headline 1": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 56
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 65
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "headline 2": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 48
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 56
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "headline 3": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 40
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 47
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "headline 4": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 32
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 37
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "headline 5": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 24
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 28
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "subhead 1": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 20
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 23
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "subhead 2": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 16
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 19
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "overline": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 12
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 500
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 14
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "uppercase"
+        }
+      },
+      "button 1": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 16
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 19
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "button 2": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 14
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 16
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "body 1": {
+        "regular": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 16
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "none"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 400
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 19
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        },
+        "medium": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 16
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "none"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 500
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 19
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        }
+      },
+      "body 2": {
+        "regular": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 14
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "none"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 400
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 16
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        },
+        "medium": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 14
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "none"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 500
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 16
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        }
+      },
+      "caption": {
+        "regular": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 12
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "none"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 400
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 14
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        },
+        "medium": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 12
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "none"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 500
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 14
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        }
+      },
+      "legal": {
+        "regular": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 10
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "none"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 400
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 12
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        },
+        "medium": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 10
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "none"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 500
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 12
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        }
+      },
+      "link caption": {
+        "regular": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 12
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "underline"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 400
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 14
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        },
+        "medium": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 12
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "underline"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 500
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 14
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        }
+      },
+      "link body1": {
+        "regular": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 16
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "underline"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 400
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 19
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        },
+        "medium": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 16
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "underline"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 500
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 19
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        }
+      },
+      "link body2": {
+        "regular": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 14
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "underline"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 400
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 16
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        },
+        "medium": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 14
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "underline"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 500
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 16
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        }
+      },
+      "link legal": {
+        "regular": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 10
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "underline"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 400
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 12
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        },
+        "medium": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 10
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "underline"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 500
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 12
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        }
+      }
+    },
+    "mobile & apps": {
+      "display": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 40
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 47
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "headline 1": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 32
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 38
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "headline 2": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 28
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 33
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "headline 3": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 26
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 31
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "headline 4": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 24
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 28
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "headline 5": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 20
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 23
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "subhead 1": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 18
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 21
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "subhead 2": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 16
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 19
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "overline": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 12
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 500
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 14
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "uppercase"
+        }
+      },
+      "button 1": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 14
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 19
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "button 2": {
+        "fontSize": {
+          "type": "dimension",
+          "value": 14
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Roboto"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 16
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "body 1": {
+        "regular": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 16
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "none"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 400
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 19
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        },
+        "medium": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 16
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "none"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 500
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 19
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        }
+      },
+      "body 2": {
+        "regular": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 14
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "none"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 400
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 16
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        },
+        "medium": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 14
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "none"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 500
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 16
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        }
+      },
+      "caption": {
+        "regular": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 12
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "none"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 400
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 14
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        },
+        "medium": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 12
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "none"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 500
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 14
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        }
+      },
+      "legal": {
+        "regular": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 10
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "none"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 400
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 12
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        },
+        "medium": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 10
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "none"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 500
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 12
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        }
+      },
+      "link body 1": {
+        "regular": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 16
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "underline"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 400
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 19
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        },
+        "medium": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 16
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "underline"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 500
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 19
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        }
+      },
+      "link body 2": {
+        "regular": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 14
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "underline"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 400
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 16
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        },
+        "medium": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 14
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "underline"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 500
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 16
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        }
+      },
+      "link caption": {
+        "regular": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 12
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "underline"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 400
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 14
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        },
+        "medium": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 12
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "underline"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 500
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 14
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        }
+      },
+      "link legal": {
+        "regular": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 10
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "underline"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 400
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 12
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        },
+        "medium": {
+          "fontSize": {
+            "type": "dimension",
+            "value": 10
+          },
+          "textDecoration": {
+            "type": "string",
+            "value": "underline"
+          },
+          "fontFamily": {
+            "type": "string",
+            "value": "Roboto"
+          },
+          "fontWeight": {
+            "type": "number",
+            "value": 500
+          },
+          "fontStyle": {
+            "type": "string",
+            "value": "normal"
+          },
+          "fontStretch": {
+            "type": "string",
+            "value": "normal"
+          },
+          "letterSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "lineHeight": {
+            "type": "dimension",
+            "value": 12
+          },
+          "paragraphIndent": {
+            "type": "dimension",
+            "value": 0
+          },
+          "paragraphSpacing": {
+            "type": "dimension",
+            "value": 0
+          },
+          "textCase": {
+            "type": "string",
+            "value": "none"
+          }
+        }
+      }
+    }
+  }
+}

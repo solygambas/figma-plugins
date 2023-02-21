@@ -1,0 +1,22 @@
+{
+  "name": "design-tokens",
+  "version": "1.0.0",
+  "description": "A simple project to sync design tokens using Style Dictionary.",
+  "main": "index.js",
+  "scripts": {
+    "build": "style-dictionary build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solygambas/figma-plugins.git"
+  },
+  "author": "solygambas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solygambas/figma-plugins/issues"
+  },
+  "homepage": "https://github.com/solygambas/figma-plugins#readme",
+  "dependencies": {
+    "style-dictionary": "^3.7.2"
+  }
+}
