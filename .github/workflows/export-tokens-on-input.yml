@@ -1,6 +1,7 @@
 name: Generate Tokens on Input
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - "11-design-tokens/input/design-tokens.tokens.json"
