@@ -22,7 +22,7 @@ jobs:
           src_path: 11-design-tokens/output/js/_variables.js
           dst_owner: solygambas
           dst_repo_name: react-projects
-          dst_branch: main
+          dst_branch: update-tokens
           dst_path: playground/03-tokens/_variables.js
           username: solygambas
           email: ${{ secrets.API_GITHUB_COMMIT_EMAIL }}
