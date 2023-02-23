@@ -19,7 +19,7 @@ jobs:
         with:
           personal_token: ${{ secrets.API_TOKEN_GITHUB }}
           src_branch: main
-          src_path: output/js/_variables.js
+          src_path: 11-design-tokens/output/js/_variables.js
           dst_owner: solygambas
           dst_repo_name: react-projects
           dst_branch: main
