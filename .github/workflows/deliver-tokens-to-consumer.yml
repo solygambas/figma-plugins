@@ -1,0 +1,29 @@
+name: Deliver Tokens To Consumer
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "11-design-tokens/output/**"
+
+jobs:
+  deliver_to_react_application:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 11-design-tokens
+    steps:
+      - uses: actions/checkout@v2
+      - name: Deliver Platform Deliverable To Application
+        uses: andstor/copycat-action@v3
+        with:
+          personal_token: ${{ secrets.API_TOKEN_GITHUB }}
+          src_branch: main
+          src_path: output/js/_variables.js
+          dst_owner: solygambas
+          dst_repo_name: react-projects
+          dst_branch: main
+          dst_path: playground/03-tokens/_variables.js
+          username: solygambas
+          email: 51904909+solygambas@users.noreply.github.com
+          commit_message: deliver updated design tokens
