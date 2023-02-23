@@ -25,5 +25,5 @@ jobs:
           dst_branch: main
           dst_path: playground/03-tokens/_variables.js
           username: solygambas
-          email: 51904909+solygambas@users.noreply.github.com
+          email: ${{ secrets.API_GITHUB_COMMIT_EMAIL }}
           commit_message: deliver updated design tokens
