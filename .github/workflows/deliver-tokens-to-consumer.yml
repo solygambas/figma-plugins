@@ -15,14 +15,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Deliver Platform Deliverable To Application
-        uses: andstor/copycat-action@v3
+        uses: nkoppel/push-files-to-another-repository@1.1.0
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          personal_token: ${{ secrets.API_TOKEN_GITHUB }}
-          src_branch: main
-          src_path: 11-design-tokens/output/js/_variables.js
-          dst_owner: solygambas
-          dst_repo_name: react-projects
-          dst_branch: update-tokens
-          dst_path: playground/03-tokens/_variables.js
-          username: solygambas
-          commit_message: deliver updated design tokens
+          source-files: "11-design-tokens/output/js"
+          destination-username: "solygambas"
+          destination-repository: "react-projects"
+          destination-directory: "playground/03-tokens"
+          commit-email: ${{ secrets.API_GITHUB_COMMIT_EMAIL }}
