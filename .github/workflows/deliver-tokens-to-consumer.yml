@@ -23,5 +23,5 @@ jobs:
           destination-username: "solygambas"
           destination-repository: "react-projects"
           destination-branch: "main"
-          destination-directory: "playground/03-tokens"
+          destination-directory: "playground/03-tokens/tokens"
           commit-email: ${{ secrets.API_GITHUB_COMMIT_EMAIL }}

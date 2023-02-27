@@ -27,7 +27,7 @@
       "files": [
         {
           "destination": "_variables.js",
-          "format": "javascript/es6"
+          "format": "javascript/module"
         }
       ]
     },
