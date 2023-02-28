@@ -28,6 +28,10 @@
         {
           "destination": "_variables.js",
           "format": "javascript/module"
+        },
+        {
+          "destination": "_variables.d.ts",
+          "format": "typescript/module-declarations"
         }
       ]
     },
