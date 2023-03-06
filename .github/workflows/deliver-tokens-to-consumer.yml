@@ -15,13 +15,14 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Deliver Platform Deliverable To Application
-        uses: nkoppel/push-files-to-another-repository@v1.1.1
+        uses: cpina/github-action-push-to-another-repository@main
         env:
-          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+          SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
         with:
-          source-files: "11-design-tokens/output/js"
-          destination-username: "solygambas"
-          destination-repository: "react-projects"
-          destination-branch: "main"
-          destination-directory: "playground/03-tokens/tokens"
-          commit-email: ${{ secrets.API_GITHUB_COMMIT_EMAIL }}
+          source-directory: 11-design-tokens/output/js
+          destination-github-username: "solygambas"
+          destination-repository-name: "react-projects"
+          user-email: ${{ secrets.API_GITHUB_COMMIT_EMAIL }}
+          commit-message: See ORIGIN_COMMIT from $GITHUB_REF
+          target-branch: main
+          target-directory: "playground/03-tokens/tokens"
