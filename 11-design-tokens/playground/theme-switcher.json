@@ -1,37 +1,37 @@
 {
   "theme-light": {
     "primary": {
-      "value": "#2118c9ff",
+      "value": "#2118c9",
       "type": "color"
     },
     "on primary": {
-      "value": "#ffffffff",
+      "value": "#ffffff",
       "type": "color"
     },
     "primary container": {
-      "value": "#e2e1f8ff",
+      "value": "#e2e1f8",
       "type": "color"
     },
     "on primary container": {
-      "value": "#140e79ff",
+      "value": "#140e79",
       "type": "color"
     }
   },
   "theme-dark": {
     "primary": {
-      "value": "#7583ffff",
+      "value": "#7583ff",
       "type": "color"
     },
     "on primary": {
-      "value": "#000000ff",
+      "value": "#000000",
       "type": "color"
     },
     "primary container": {
-      "value": "#0d0a50ff",
+      "value": "#0d0a50",
       "type": "color"
     },
     "on primary container": {
-      "value": "#b1aeecff",
+      "value": "#b1aeec",
       "type": "color"
     }
   },
