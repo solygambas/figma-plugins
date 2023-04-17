@@ -1,38 +1,42 @@
 {
   "theme-light": {
     "primary": {
-      "value": "#2118c9",
-      "type": "color"
-    },
-    "on primary": {
-      "value": "#ffffff",
-      "type": "color"
-    },
-    "primary container": {
-      "value": "#e2e1f8",
-      "type": "color"
-    },
-    "on primary container": {
-      "value": "#140e79",
-      "type": "color"
+      "primary": {
+        "value": "#2118c9",
+        "type": "color"
+      },
+      "on primary": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "primary container": {
+        "value": "#e2e1f8",
+        "type": "color"
+      },
+      "on primary container": {
+        "value": "#140e79",
+        "type": "color"
+      }
     }
   },
   "theme-dark": {
     "primary": {
-      "value": "#7583ff",
-      "type": "color"
-    },
-    "on primary": {
-      "value": "#000000",
-      "type": "color"
-    },
-    "primary container": {
-      "value": "#0d0a50",
-      "type": "color"
-    },
-    "on primary container": {
-      "value": "#b1aeec",
-      "type": "color"
+      "primary": {
+        "value": "#7583ff",
+        "type": "color"
+      },
+      "on primary": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "primary container": {
+        "value": "#0d0a50",
+        "type": "color"
+      },
+      "on primary container": {
+        "value": "#b1aeec",
+        "type": "color"
+      }
     }
   },
   "$themes": [
@@ -44,10 +48,12 @@
         "theme-dark": "disabled"
       },
       "$figmaStyleReferences": {
-        "primary": "S:5c8d2bdc811a5feaa0dd5cbac6d7d65a13f7c708,",
-        "on primary": "S:781d45a9f2700f1ebd82b3795e20a7472c1fb872,",
-        "primary container": "S:29fe998c1f2f1a68f9e49d44da237a0dc6a0a8d9,",
-        "on primary container": "S:5ebf1adf6dc6b2845760f17780e6aff9dce3cdd9,"
+        "primary": {
+          "primary": "S:5c8d2bdc811a5feaa0dd5cbac6d7d65a13f7c708,",
+          "on primary": "S:781d45a9f2700f1ebd82b3795e20a7472c1fb872,",
+          "primary container": "S:29fe998c1f2f1a68f9e49d44da237a0dc6a0a8d9,",
+          "on primary container": "S:5ebf1adf6dc6b2845760f17780e6aff9dce3cdd9,"
+        }
       }
     },
     {
@@ -57,10 +63,12 @@
         "theme-dark": "enabled"
       },
       "$figmaStyleReferences": {
-        "primary": "S:3cb6b9e3db6f50bc530aac4a873187f59609816c,",
-        "on primary": "S:ad56875d4db2ce02ac189693496904747d903682,",
-        "primary container": "S:5eb6a7493883b7e8c5da4886085575b93cb8acf2,",
-        "on primary container": "S:959c56c86d33cf4db466f1306695a33c378a7a82,"
+        "primary": {
+          "primary": "S:3cb6b9e3db6f50bc530aac4a873187f59609816c,",
+          "on primary": "S:ad56875d4db2ce02ac189693496904747d903682,",
+          "primary container": "S:5eb6a7493883b7e8c5da4886085575b93cb8acf2,",
+          "on primary container": "S:959c56c86d33cf4db466f1306695a33c378a7a82,"
+        }
       }
     }
   ],
