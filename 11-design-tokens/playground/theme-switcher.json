@@ -1,54 +1,58 @@
 {
   "spark-light": {
     "primary": {
-      "value": "#2118c9",
-      "type": "color"
-    },
-    "on primary": {
-      "value": "#ffffff",
-      "type": "color"
-    },
-    "primary container": {
-      "value": "#e2e1f8",
-      "type": "color"
-    },
-    "on primary container": {
-      "value": "#140e79",
-      "type": "color"
-    },
-    "primary variant": {
-      "value": "#140e79",
-      "type": "color"
-    },
-    "on primary variant": {
-      "value": "#ffffff",
-      "type": "color"
+      "primary": {
+        "value": "#2118c9",
+        "type": "color"
+      },
+      "on primary": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "primary container": {
+        "value": "#e2e1f8",
+        "type": "color"
+      },
+      "on primary container": {
+        "value": "#140e79",
+        "type": "color"
+      },
+      "primary variant": {
+        "value": "#140e79",
+        "type": "color"
+      },
+      "on primary variant": {
+        "value": "#ffffff",
+        "type": "color"
+      }
     }
   },
   "spark-dark": {
     "primary": {
-      "value": "#7583ff",
-      "type": "color"
-    },
-    "on primary": {
-      "value": "#000000",
-      "type": "color"
-    },
-    "primary container": {
-      "value": "#0d0a50",
-      "type": "color"
-    },
-    "on primary container": {
-      "value": "#b1aeec",
-      "type": "color"
-    },
-    "primary variant": {
-      "value": "#b1aeec",
-      "type": "color"
-    },
-    "on primary variant": {
-      "value": "#000000",
-      "type": "color"
+      "primary": {
+        "value": "#7583ff",
+        "type": "color"
+      },
+      "on primary": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "primary container": {
+        "value": "#0d0a50",
+        "type": "color"
+      },
+      "on primary container": {
+        "value": "#b1aeec",
+        "type": "color"
+      },
+      "primary variant": {
+        "value": "#b1aeec",
+        "type": "color"
+      },
+      "on primary variant": {
+        "value": "#000000",
+        "type": "color"
+      }
     }
   },
   "$themes": [
@@ -56,36 +60,37 @@
       "id": "9ea29b463ca430ddd61ef36932b21a9d0dfa13c2",
       "name": "spark-light",
       "selectedTokenSets": {
-        "spark-light": "enabled",
-        "spark-dark": "disabled"
+        "spark-light": "enabled"
       },
       "$figmaStyleReferences": {
-        "primary": "S:5c8d2bdc811a5feaa0dd5cbac6d7d65a13f7c708,",
-        "on primary": "S:781d45a9f2700f1ebd82b3795e20a7472c1fb872,",
-        "primary container": "S:29fe998c1f2f1a68f9e49d44da237a0dc6a0a8d9,",
-        "on primary container": "S:5ebf1adf6dc6b2845760f17780e6aff9dce3cdd9,",
-        "primary variant": "S:d00669e6f4d9de81f6006de9810a897d2319a260,",
-        "on primary variant": "S:4bb24f556ff0dd5ff5662853f296d1ab78059e03,"
+        "primary.primary": "S:5c8d2bdc811a5feaa0dd5cbac6d7d65a13f7c708,",
+        "primary.on primary": "S:781d45a9f2700f1ebd82b3795e20a7472c1fb872,",
+        "primary.primary container": "S:29fe998c1f2f1a68f9e49d44da237a0dc6a0a8d9,",
+        "primary.on primary container": "S:5ebf1adf6dc6b2845760f17780e6aff9dce3cdd9,",
+        "primary.primary variant": "S:d00669e6f4d9de81f6006de9810a897d2319a260,",
+        "primary.on primary variant": "S:4bb24f556ff0dd5ff5662853f296d1ab78059e03,"
       }
     },
     {
       "id": "db553791397c6bdd0e2c0fc9bbba79760e2792d8",
       "name": "spark-dark",
       "selectedTokenSets": {
-        "spark-light": "disabled",
         "spark-dark": "enabled"
       },
       "$figmaStyleReferences": {
-        "primary": "S:3cb6b9e3db6f50bc530aac4a873187f59609816c,",
-        "on primary": "S:ad56875d4db2ce02ac189693496904747d903682,",
-        "primary container": "S:5eb6a7493883b7e8c5da4886085575b93cb8acf2,",
-        "on primary container": "S:959c56c86d33cf4db466f1306695a33c378a7a82,",
-        "primary variant": "S:f5318bfdbf4285bc555891a431b308aa6ca19027,",
-        "on primary variant": "S:a079fbcd5d8d563f05bbd982011f1362942c704a,"
+        "primary.primary": "S:3cb6b9e3db6f50bc530aac4a873187f59609816c,",
+        "primary.on primary": "S:ad56875d4db2ce02ac189693496904747d903682,",
+        "primary.primary container": "S:5eb6a7493883b7e8c5da4886085575b93cb8acf2,",
+        "primary.on primary container": "S:959c56c86d33cf4db466f1306695a33c378a7a82,",
+        "primary.primary variant": "S:f5318bfdbf4285bc555891a431b308aa6ca19027,",
+        "primary.on primary variant": "S:a079fbcd5d8d563f05bbd982011f1362942c704a,"
       }
     }
   ],
   "$metadata": {
-    "tokenSetOrder": ["spark-light", "spark-dark"]
+    "tokenSetOrder": [
+      "spark-light",
+      "spark-dark"
+    ]
   }
 }
