@@ -1,5 +1,5 @@
 {
-  "global": {
+  "lbc": {
     "Light": {
       "Primary": {
         "Primary": {
@@ -931,10 +931,19 @@
       }
     }
   },
-  "$themes": [],
+  "$themes": [
+    {
+      "id": "234f8cebc82a85cdef1d6534459705b8260cda48",
+      "name": "lbc",
+      "selectedTokenSets": {
+        "lbc": "enabled"
+      },
+      "$figmaStyleReferences": {}
+    }
+  ],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "lbc"
     ]
   }
 }
