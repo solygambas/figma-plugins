@@ -55,6 +55,62 @@
       }
     }
   },
+  "leboncoin-part-light": {
+    "primary": {
+      "primary": {
+        "value": "#ec5a13",
+        "type": "color"
+      },
+      "on primary": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "primary container": {
+        "value": "#fdefe8",
+        "type": "color"
+      },
+      "on primary container": {
+        "value": "#89380f",
+        "type": "color"
+      },
+      "primary variant": {
+        "value": "#b84a14",
+        "type": "color"
+      },
+      "on primary variant": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    }
+  },
+  "leboncoin-pro-light": {
+    "primary": {
+      "primary": {
+        "value": "#0f6cbd",
+        "type": "color"
+      },
+      "on primary": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "primary container": {
+        "value": "#e7f3fd",
+        "type": "color"
+      },
+      "on primary container": {
+        "value": "#0b518e",
+        "type": "color"
+      },
+      "primary variant": {
+        "value": "#0b518e",
+        "type": "color"
+      },
+      "on primary variant": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    }
+  },
   "$themes": [
     {
       "id": "9ea29b463ca430ddd61ef36932b21a9d0dfa13c2",
@@ -85,12 +141,44 @@
         "primary.primary variant": "S:f5318bfdbf4285bc555891a431b308aa6ca19027,",
         "primary.on primary variant": "S:a079fbcd5d8d563f05bbd982011f1362942c704a,"
       }
+    },
+    {
+      "id": "db553791397c6bdd0e2c0fc9bbba79760e2792d7",
+      "name": "leboncoin-part-light",
+      "selectedTokenSets": {
+        "leboncoin-light-part": "enabled"
+      },
+      "$figmaStyleReferences": {
+        "primary.primary": "S:4fb9864928faa318e4d51592a107095b34024163,",
+        "primary.on primary": "S:ec7676f0c9c54e5b0ed2032e70d3b9d60a333520,",
+        "primary.primary container": "S:55784fe859d8e4be4d32cb8104c2d7f9532c0918,",
+        "primary.on primary container": "S:cd73484f49808dbea03d3bba21f3519ddd3be23c,",
+        "primary.primary variant": "S:a6456598fe0efb73b2d717b3a6edaf808829d115,",
+        "primary.on primary variant": "S:26ae004180c99c7cda008a29f5c004b1744b0901,"
+      }
+    },
+    {
+      "id": "db553791397c6bdd0e2c0fc9bbba79760e2792d6",
+      "name": "leboncoin-pro-light",
+      "selectedTokenSets": {
+        "leboncoin-pro-light": "enabled"
+      },
+      "$figmaStyleReferences": {
+        "primary.primary": "S:c36521a4b04a15b95e22bdeb3c64a65bf7f06a74,",
+        "primary.on primary": "S:a3752bf2d5376c7a128319fc363a9746c08ddf9d,",
+        "primary.primary container": "S:37f2e688193826f8e2db64843ca81673a9f44c83,",
+        "primary.on primary container": "S:9558259ff2fdda65f3b210a97c1e4515f64ed748,",
+        "primary.primary variant": "S:56d62096b4f3b4dbffe7bc41c775e2befefd4b8e,",
+        "primary.on primary variant": "S:49ff44c93cc35934f8bd831e092227a560c4a758,"
+      }
     }
   ],
   "$metadata": {
     "tokenSetOrder": [
       "spark-light",
-      "spark-dark"
+      "spark-dark",
+      "leboncoin-part-light",
+      "leboncoin-pro-light"
     ]
   }
 }
