@@ -628,15 +628,583 @@
       }
     }
   },
-  "test-spark-light": {},
+  "test-spark-light": {
+    "Light": {
+      "Primary": {
+        "Primary": {
+          "value": "#2118c9",
+          "type": "color",
+          "description": "TheBlue 500"
+        },
+        "On Primary": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        },
+        "Primary Container": {
+          "value": "#e2e1f8",
+          "type": "color",
+          "description": "TheBlue 100"
+        },
+        "On Primary Container": {
+          "value": "#140e79",
+          "type": "color",
+          "description": "TheBlue 700"
+        },
+        "Primary Variant": {
+          "value": "#140e79",
+          "type": "color",
+          "description": "TheBlue 700"
+        },
+        "On Primary Variant": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        }
+      },
+      "Secondary": {
+        "Secondary": {
+          "value": "#fd398a",
+          "type": "color",
+          "description": "Sugarcotton 500"
+        },
+        "On Secondary": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        },
+        "Secondary Container": {
+          "value": "#ffe1ed",
+          "type": "color",
+          "description": "Sugarcotton 100"
+        },
+        "On Secondary Container": {
+          "value": "#982253",
+          "type": "color",
+          "description": "Sugarcotton 700"
+        },
+        "Secondary Variant": {
+          "value": "#982253",
+          "type": "color",
+          "description": "Sugarcotton 700"
+        },
+        "On Secondary Variant": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        }
+      },
+      "Feedback": {
+        "Success": {
+          "value": "#31a56b",
+          "type": "color",
+          "description": "Apple 500"
+        },
+        "On Success": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        },
+        "Success Container": {
+          "value": "#e0f2e9",
+          "type": "color",
+          "description": "Apple 100"
+        },
+        "On Success Container": {
+          "value": "#1d6340",
+          "type": "color",
+          "description": "Apple 700"
+        },
+        "Alert": {
+          "value": "#f4bf48",
+          "type": "color",
+          "description": "Wiggins 500"
+        },
+        "On Alert": {
+          "value": "#000000",
+          "type": "color",
+          "description": "Black"
+        },
+        "Alert Container": {
+          "value": "#fdf5e4",
+          "type": "color",
+          "description": "Wiggins 100"
+        },
+        "On Alert Container": {
+          "value": "#92732b",
+          "type": "color",
+          "description": "Wiggins 700"
+        },
+        "Error": {
+          "value": "#f65651",
+          "type": "color",
+          "description": "Chili 500"
+        },
+        "On Error": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        },
+        "Error Container": {
+          "value": "#fee6e5",
+          "type": "color",
+          "description": "Chili 100"
+        },
+        "On Error Container": {
+          "value": "#943431",
+          "type": "color",
+          "description": "Chili 700"
+        },
+        "Info": {
+          "value": "#07a0b8",
+          "type": "color",
+          "description": "Sky 500"
+        },
+        "On Info": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        },
+        "Info Container": {
+          "value": "#daf1f4",
+          "type": "color",
+          "description": "Sky 100"
+        },
+        "On Info Container": {
+          "value": "#04606e",
+          "type": "color",
+          "description": "Sky 700"
+        },
+        "Neutral": {
+          "value": "#7b7986",
+          "type": "color",
+          "description": "Surfer 500"
+        },
+        "On Neutral": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        },
+        "Neutral Container": {
+          "value": "#ebebed",
+          "type": "color",
+          "description": "Surfer 100"
+        },
+        "On Neutral Container": {
+          "value": "#4a4950",
+          "type": "color",
+          "description": "Surfer 700"
+        }
+      },
+      "Base": {
+        "Surface": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        },
+        "On Surface": {
+          "value": "#000000",
+          "type": "color",
+          "description": "Black"
+        },
+        "Surface Inverse": {
+          "value": "#252428",
+          "type": "color",
+          "description": "Surfer 900"
+        },
+        "On Surface Inverse": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        },
+        "Background": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        },
+        "On Background": {
+          "value": "#000000",
+          "type": "color",
+          "description": "Black"
+        },
+        "Background Variant": {
+          "value": "#f8f8f9",
+          "type": "color",
+          "description": "Surfer 50"
+        },
+        "On Background Variant": {
+          "value": "#000000",
+          "type": "color",
+          "description": "Black"
+        },
+        "Outline": {
+          "value": "#d1d0d5",
+          "type": "color",
+          "description": "Surfer 200"
+        },
+        "Outline High": {
+          "value": "#000000",
+          "type": "color",
+          "description": "Black"
+        },
+        "Overlay": {
+          "value": "#313036b8",
+          "type": "color",
+          "description": "Surfer 800 72%"
+        },
+        "On Overlay": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        }
+      },
+      "Dim": {
+        "On Surface Dim 1 (Text)": {
+          "value": "#000000b8",
+          "type": "color",
+          "description": "On Surface 72%"
+        },
+        "On Surface Dim 2 (Icon)": {
+          "value": "#0000008f",
+          "type": "color",
+          "description": "On Surface 56% "
+        },
+        "On Surface Dim 3 (Disabled)": {
+          "value": "#00000066",
+          "type": "color",
+          "description": "On Surface 40%"
+        },
+        "On Surface Dim 4 (Low Elements)": {
+          "value": "#00000029",
+          "type": "color",
+          "description": "On Surface 16%"
+        },
+        "On Surface Dim 5 (Press&Ripple)": {
+          "value": "#00000014",
+          "type": "color",
+          "description": "On Surface 8%"
+        },
+        "Primary Dim 1 (Text)": {
+          "value": "#2118c9b8",
+          "type": "color",
+          "description": "Primary 72%"
+        },
+        "Primary Dim 2 (Icon)": {
+          "value": "#2118c98f",
+          "type": "color",
+          "description": "Primary 56%"
+        },
+        "Primary Dim 3 (Disabled)": {
+          "value": "#2118c966",
+          "type": "color",
+          "description": "Primary 40%"
+        },
+        "Primary Dim 4 (Low Elements)": {
+          "value": "#2118c929",
+          "type": "color",
+          "description": "Primary 16%"
+        },
+        "Primary Dim 5 (Press & Ripple)": {
+          "value": "#2118c914",
+          "type": "color",
+          "description": "Primary 8%"
+        },
+        "On Background Dim 1 (Text)": {
+          "value": "#000000b8",
+          "type": "color",
+          "description": "On Background 72%"
+        },
+        "On Background Dim 2 (Icon)": {
+          "value": "#0000008f",
+          "type": "color",
+          "description": "On Background 56%"
+        },
+        "On Background Dim 3 (Disabled)": {
+          "value": "#00000066",
+          "type": "color",
+          "description": "On Background 40%"
+        },
+        "On Background Dim 4 (Low elements)": {
+          "value": "#00000029",
+          "type": "color",
+          "description": "On Background 16%"
+        },
+        "On Background Dim 5 (Press&Ripple)": {
+          "value": "#00000014",
+          "type": "color",
+          "description": "On Background 8%"
+        },
+        "Secondary Dim 1 (Text)": {
+          "value": "#fd398ab8",
+          "type": "color",
+          "description": "Secondary 72%"
+        },
+        "Secondary Dim 2 (Icon)": {
+          "value": "#fd398a8f",
+          "type": "color",
+          "description": "Secondary 56%"
+        },
+        "Secondary Dim 3 (Disabled)": {
+          "value": "#fd398a66",
+          "type": "color",
+          "description": "Secondary 40%"
+        },
+        "Secondary Dim 4 (Low elements)": {
+          "value": "#fd398a29",
+          "type": "color",
+          "description": "Secondary 16%"
+        },
+        "Secondary Dim 5 (Press&Ripple)": {
+          "value": "#fd398a14",
+          "type": "color",
+          "description": "Secondary 8%"
+        },
+        "Success Dim 1 (Text)": {
+          "value": "#31a56bb8",
+          "type": "color",
+          "description": "Success 72%"
+        },
+        "Success Dim 2 (Icon)": {
+          "value": "#31a56b8f",
+          "type": "color",
+          "description": "Success 56%"
+        },
+        "Success Dim 3 (Disabled)": {
+          "value": "#31a56b66",
+          "type": "color",
+          "description": "Success 40%"
+        },
+        "Success Dim 4 (Low elements)": {
+          "value": "#31a56b29",
+          "type": "color",
+          "description": "Success 16%"
+        },
+        "Success Dim 5 (Press&Ripple)": {
+          "value": "#31a56b14",
+          "type": "color",
+          "description": "Success 8%"
+        },
+        "Error Dim 1 (Text)": {
+          "value": "#f65651b8",
+          "type": "color",
+          "description": "Error 72%"
+        },
+        "Error Dim 2 (Icon)": {
+          "value": "#f656518f",
+          "type": "color",
+          "description": "Error 56%"
+        },
+        "Error Dim 3 (Disabled)": {
+          "value": "#f6565166",
+          "type": "color",
+          "description": "Error 40%"
+        },
+        "Error Dim 4 (Low elements)": {
+          "value": "#f6565129",
+          "type": "color",
+          "description": "Error 16%"
+        },
+        "Error Dim 5 (Press&Ripple)": {
+          "value": "#f6565114",
+          "type": "color",
+          "description": "Error 8%"
+        },
+        "Alert Dim 1 (Text)": {
+          "value": "#f4bf48b8",
+          "type": "color",
+          "description": "Alert 72%"
+        },
+        "Alert Dim 2 (Icon)": {
+          "value": "#f4bf488f",
+          "type": "color",
+          "description": "Alert 56%"
+        },
+        "Alert Dim 3 (Disabled)": {
+          "value": "#f4bf4866",
+          "type": "color",
+          "description": "Alert 40%"
+        },
+        "Alert Dim 4 (Low elements)": {
+          "value": "#f4bf4829",
+          "type": "color",
+          "description": "Alert 16%"
+        },
+        "Alert Dim 5 (Press&Ripple)": {
+          "value": "#f4bf4814",
+          "type": "color",
+          "description": "Alert 8%"
+        },
+        "Neutral Dim 1 (Text)": {
+          "value": "#7b7986b8",
+          "type": "color",
+          "description": "Neutral 72%"
+        },
+        "Neutral Dim 2 (Icon)": {
+          "value": "#7b79868f",
+          "type": "color",
+          "description": "Neutral 56%"
+        },
+        "Neutral Dim 3 (Disabled)": {
+          "value": "#7b798666",
+          "type": "color",
+          "description": "Neutral 40%"
+        },
+        "Neutral Dim 4 (Low elements)": {
+          "value": "#7b798629",
+          "type": "color",
+          "description": "Neutral 16%"
+        },
+        "Neutral Dim 5 (Press&Ripple)": {
+          "value": "#7b798614",
+          "type": "color",
+          "description": "Neutral 8%"
+        },
+        "Surface Dim 1 (Text)": {
+          "value": "#ffffffb8",
+          "type": "color",
+          "description": "Surface 72%"
+        },
+        "Surface Dim 2 (Icon)": {
+          "value": "#ffffff8f",
+          "type": "color",
+          "description": "Surface 56%"
+        },
+        "Surface Dim 3 (Disabled)": {
+          "value": "#ffffff66",
+          "type": "color",
+          "description": "Surface 40%"
+        },
+        "Surface Dim 4 (Low elements)": {
+          "value": "#ffffff29",
+          "type": "color",
+          "description": "Surface 16%"
+        },
+        "Surface Dim 5 (Press&Ripple)": {
+          "value": "#ffffff14",
+          "type": "color",
+          "description": "Surface 8%"
+        }
+      },
+      "Gradient": {
+        "Primary Gradient": {
+          "value": "linear-gradient(90deg, #e2e1f8 0%, #2118c9 100%)",
+          "type": "color"
+        }
+      },
+      "States": {
+        "Primary Hover": {
+          "value": "#5952d6",
+          "type": "color",
+          "description": "TheBlue 400"
+        },
+        "Primary Variant Hover": {
+          "value": "#191297",
+          "type": "color",
+          "description": "TheBlue 600"
+        },
+        "Primary Container Hover": {
+          "value": "#f4f4fc",
+          "type": "color",
+          "description": "TheBlue 50"
+        },
+        "Secondary Hover": {
+          "value": "#fe6ba7",
+          "type": "color",
+          "description": "Sugarcottom 400"
+        },
+        "Secondary Variant Hover": {
+          "value": "#ca2e6e",
+          "type": "color",
+          "description": "Sugarcottom 600"
+        },
+        "Secondary Container Hover": {
+          "value": "#fff5f9",
+          "type": "color",
+          "description": "Sugarcottom 50"
+        },
+        "Background Hover": {
+          "value": "#f4f4fc",
+          "type": "color",
+          "description": "TheBlue 50"
+        },
+        "Surface Hover": {
+          "value": "#f4f4fc",
+          "type": "color",
+          "description": "TheBlue 50"
+        },
+        "Surface Inverse Hover": {
+          "value": "#313036",
+          "type": "color",
+          "description": "Surfer 800"
+        },
+        "Success Hover": {
+          "value": "#64bc90",
+          "type": "color",
+          "description": "Apple 400"
+        },
+        "Alert Hover": {
+          "value": "#f7cf76",
+          "type": "color",
+          "description": "Wiggins 400"
+        },
+        "Error Hover": {
+          "value": "#f8807d",
+          "type": "color",
+          "description": "Chili 400"
+        },
+        "Info Hover": {
+          "value": "#45b8ca",
+          "type": "color",
+          "description": "Sky 400"
+        },
+        "Neutral Hover": {
+          "value": "#9c9ba4",
+          "type": "color",
+          "description": "Surfer 400"
+        },
+        "Success Container Hover": {
+          "value": "#f5fbf8",
+          "type": "color",
+          "description": "Apple 50"
+        },
+        "Alert Container Hover": {
+          "value": "#fffcf6",
+          "type": "color",
+          "description": "Wiggins 50"
+        },
+        "Error Container Hover": {
+          "value": "#fff7f6",
+          "type": "color",
+          "description": "Chili 50"
+        },
+        "Info Container Hover": {
+          "value": "#f3fafc",
+          "type": "color",
+          "description": "Sky 50"
+        },
+        "Neutral Container Hover": {
+          "value": "#f8f8f9",
+          "type": "color",
+          "description": "Surfer 50"
+        },
+        "Outline Hover": {
+          "value": "#2118c9",
+          "type": "color",
+          "description": "Primary"
+        },
+        "Primary Disable": {
+          "value": "#f4f4fc",
+          "type": "color"
+        }
+      }
+    }
+  },
   "$themes": [
     {
       "id": "9ea29b463ca430ddd61ef36932b21a9d0dfa13c2",
       "name": "spark-light",
       "selectedTokenSets": {
-        "spark-light": "enabled",
-        "test-lbc-light": "disabled",
-        "test-spark-light": "disabled"
+        "spark-light": "enabled"
       },
       "$figmaStyleReferences": {
         "primary.primary": "S:5c8d2bdc811a5feaa0dd5cbac6d7d65a13f7c708,",
@@ -651,9 +1219,7 @@
       "id": "db553791397c6bdd0e2c0fc9bbba79760e2792d8",
       "name": "spark-dark",
       "selectedTokenSets": {
-        "spark-dark": "enabled",
-        "test-lbc-light": "disabled",
-        "test-spark-light": "disabled"
+        "spark-dark": "enabled"
       },
       "$figmaStyleReferences": {
         "primary.primary": "S:3cb6b9e3db6f50bc530aac4a873187f59609816c,",
@@ -667,10 +1233,7 @@
     {
       "id": "db553791397c6bdd0e2c0fc9bbba79760e2792d7",
       "name": "leboncoin-part-light",
-      "selectedTokenSets": {
-        "test-lbc-light": "disabled",
-        "test-spark-light": "disabled"
-      },
+      "selectedTokenSets": {},
       "$figmaStyleReferences": {
         "primary.primary": "S:4fb9864928faa318e4d51592a107095b34024163,",
         "primary.on primary": "S:ec7676f0c9c54e5b0ed2032e70d3b9d60a333520,",
@@ -684,9 +1247,7 @@
       "id": "db553791397c6bdd0e2c0fc9bbba79760e2792d6",
       "name": "leboncoin-pro-light",
       "selectedTokenSets": {
-        "leboncoin-pro-light": "enabled",
-        "test-lbc-light": "disabled",
-        "test-spark-light": "disabled"
+        "leboncoin-pro-light": "enabled"
       },
       "$figmaStyleReferences": {
         "primary.primary": "S:c36521a4b04a15b95e22bdeb3c64a65bf7f06a74,",
@@ -701,8 +1262,7 @@
       "id": "6da9356ca507c71fda2741577d74299b5f1fb7cf",
       "name": "test-lbc-light",
       "selectedTokenSets": {
-        "test-lbc-light": "enabled",
-        "test-spark-light": "disabled"
+        "test-lbc-light": "enabled"
       },
       "$figmaStyleReferences": {}
     },
