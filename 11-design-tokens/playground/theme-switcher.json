@@ -169,18 +169,6 @@
         "primary.primary variant": "S:56d62096b4f3b4dbffe7bc41c775e2befefd4b8e,",
         "primary.on primary variant": "S:49ff44c93cc35934f8bd831e092227a560c4a758,"
       }
-    },
-    {
-      "id": "6da9356ca507c71fda2741577d74299b5f1fb7cf",
-      "name": "test-lbc-light",
-      "selectedTokenSets": {},
-      "$figmaStyleReferences": {}
-    },
-    {
-      "id": "59b4ff2c8136926e6a401956909078e196b3248f",
-      "name": "test-spark-light",
-      "selectedTokenSets": {},
-      "$figmaStyleReferences": {}
     }
   ],
   "$metadata": {
