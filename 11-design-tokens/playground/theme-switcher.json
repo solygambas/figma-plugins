@@ -111,12 +111,532 @@
       }
     }
   },
+  "test-lbc-light": {
+    "Light": {
+      "Primary": {
+        "Primary": {
+          "value": "#ec5a13",
+          "type": "color",
+          "description": "Clementin 500"
+        },
+        "OnPrimary": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        },
+        "Primary Container": {
+          "value": "#fdefe8",
+          "type": "color",
+          "description": "Clementin 50"
+        },
+        "On Primary Container": {
+          "value": "#89380f",
+          "type": "color",
+          "description": "Clementin 700"
+        },
+        "Primary Variant": {
+          "value": "#b84a14",
+          "type": "color",
+          "description": "Clementin 600"
+        },
+        "On Primary Variant": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        }
+      },
+      "Secondary": {
+        "Secondary": {
+          "value": "#06233d",
+          "type": "color",
+          "description": "Blueberry 900"
+        },
+        "On Secondary": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        },
+        "Secondary Container": {
+          "value": "#e7f3fd",
+          "type": "color",
+          "description": "Blueberry 50"
+        },
+        "On Secondary Container": {
+          "value": "#06233d",
+          "type": "color",
+          "description": "Blueberry 900"
+        },
+        "Secondary Variant": {
+          "value": "#4e6579",
+          "type": "color",
+          "description": "Nightshade 600"
+        },
+        "On Secondary Variant": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        }
+      },
+      "Base": {
+        "Background": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        },
+        "On Background": {
+          "value": "#06233d",
+          "type": "color",
+          "description": "Blueberry 900"
+        },
+        "Background Variant": {
+          "value": "#f8f8f9",
+          "type": "color",
+          "description": "Nightshade 25"
+        },
+        "On Background Variant": {
+          "value": "#06233d",
+          "type": "color",
+          "description": "Blueberry 900"
+        },
+        "Surface": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        },
+        "On Surface": {
+          "value": "#06233d",
+          "type": "color",
+          "description": "Blueberry 900"
+        },
+        "Surface Inverse": {
+          "value": "#06233d",
+          "type": "color",
+          "description": "Blueberry 900"
+        },
+        "On Surface Inverse": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        },
+        "Outline": {
+          "value": "#a3b4c2",
+          "type": "color",
+          "description": "Nightshade 300"
+        },
+        "Outline High": {
+          "value": "#06233d",
+          "type": "color",
+          "description": "Blueberry 900"
+        },
+        "Overlay": {
+          "value": "#14191fbf",
+          "type": "color",
+          "description": "Nightshade 900 75%"
+        },
+        "On Overlay": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        }
+      },
+      "Feedback": {
+        "Success": {
+          "value": "#4e9850",
+          "type": "color",
+          "description": "Avocado 500"
+        },
+        "On Success": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        },
+        "Alert": {
+          "value": "#ffaa00",
+          "type": "color",
+          "description": "Banana 500"
+        },
+        "On Alert": {
+          "value": "#14191f",
+          "type": "color",
+          "description": "Nightshade 900"
+        },
+        "Error": {
+          "value": "#d93426",
+          "type": "color",
+          "description": "Cherry 500"
+        },
+        "On Error": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        },
+        "Info": {
+          "value": "#1388ec",
+          "type": "color",
+          "description": "Blueberry 500"
+        },
+        "On Info": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        },
+        "Neutral": {
+          "value": "#627c93",
+          "type": "color",
+          "description": "Nightshade 500"
+        },
+        "On Neutral": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "White"
+        },
+        "Success Container": {
+          "value": "#dceadc",
+          "type": "color",
+          "description": "Avocado 100"
+        },
+        "On Success Container": {
+          "value": "#2f5b30",
+          "type": "color",
+          "description": "Avocado 700"
+        },
+        "Alert Container": {
+          "value": "#ffeecc",
+          "type": "color",
+          "description": "Banana 100"
+        },
+        "On Alert Container": {
+          "value": "#996600",
+          "type": "color",
+          "description": "Banana 700"
+        },
+        "Error Container": {
+          "value": "#f7d7d4",
+          "type": "color",
+          "description": "Cherry 100"
+        },
+        "On Error Container": {
+          "value": "#822017",
+          "type": "color",
+          "description": "Cherry 700"
+        },
+        "Info Container": {
+          "value": "#cfe6fb",
+          "type": "color",
+          "description": "Blueberry 100"
+        },
+        "On Info Container": {
+          "value": "#0b518e",
+          "type": "color",
+          "description": "Blueberry 700"
+        },
+        "Neutral Container": {
+          "value": "#f0f5fa",
+          "type": "color",
+          "description": "Nightshade 100"
+        },
+        "On Neutral Container": {
+          "value": "#3d4d5c",
+          "type": "color",
+          "description": "Nightshade 700"
+        }
+      },
+      "Dim": {
+        "On Background Dim 1 (Text)": {
+          "value": "#06233db8",
+          "type": "color",
+          "description": "On Background 72%"
+        },
+        "On Background Dim 2 (Icon)": {
+          "value": "#06233d8f",
+          "type": "color",
+          "description": "On Background 56%"
+        },
+        "On Background Dim 3 (Disabled))": {
+          "value": "#06233d66",
+          "type": "color",
+          "description": "On Background 40%"
+        },
+        "On Background Dim 4 (Low Elements))": {
+          "value": "#06233d29",
+          "type": "color",
+          "description": "On Background 16%"
+        },
+        "On Background Dim 5 (Press&Ripple))": {
+          "value": "#06233d14",
+          "type": "color",
+          "description": "On Background 8%"
+        },
+        "On Surface Dim 1 (Text)": {
+          "value": "#06233db8",
+          "type": "color",
+          "description": "On Surface 72%"
+        },
+        "On Surface Dim 2 (Icon)": {
+          "value": "#06233d8f",
+          "type": "color",
+          "description": "On surface 56%"
+        },
+        "On Surface Dim 3 (Disabled)": {
+          "value": "#06233d66",
+          "type": "color",
+          "description": "On Surface 40%"
+        },
+        "On Surface Dim 4 (Low elements)": {
+          "value": "#06233d29",
+          "type": "color",
+          "description": "On Surface 16%"
+        },
+        "On Surface Dim 5 (Press&Ripple)": {
+          "value": "#06233d14",
+          "type": "color",
+          "description": "On Surface 8%"
+        },
+        "Primary Dim 1 (Text)": {
+          "value": "#ec5a13b8",
+          "type": "color",
+          "description": "Primary 72%"
+        },
+        "Primary Dim 2 (Icon)": {
+          "value": "#ec5a138f",
+          "type": "color",
+          "description": "Primary 56%"
+        },
+        "Primary Dim 3 (Disabled)": {
+          "value": "#ec5a1366",
+          "type": "color",
+          "description": "Primary 40%"
+        },
+        "Primary Dim 4 (Low Elements)": {
+          "value": "#ec5a1329",
+          "type": "color",
+          "description": "Primary 16%"
+        },
+        "Primary Dim 5 (Press&Ripple)": {
+          "value": "#ec5a1314",
+          "type": "color",
+          "description": "Primary 8%"
+        },
+        "Secondary Dim 1": {
+          "value": "#06233db8",
+          "type": "color"
+        },
+        "Secondary Dim 2": {
+          "value": "#06233d8f",
+          "type": "color"
+        },
+        "Secondary Dim 3": {
+          "value": "#06233d66",
+          "type": "color"
+        },
+        "Secondary Dim 4": {
+          "value": "#06233d29",
+          "type": "color"
+        },
+        "Secondary Dim 5": {
+          "value": "#06233d14",
+          "type": "color"
+        },
+        "Success Dim 1": {
+          "value": "#4e9850b8",
+          "type": "color"
+        },
+        "Success Dim 2": {
+          "value": "#4e98508f",
+          "type": "color"
+        },
+        "Success Dim 3": {
+          "value": "#4e985066",
+          "type": "color"
+        },
+        "Success Dim 4": {
+          "value": "#4e985029",
+          "type": "color"
+        },
+        "Success Dim 5": {
+          "value": "#4e985014",
+          "type": "color"
+        },
+        "Error Dim 1": {
+          "value": "#d93426b8",
+          "type": "color"
+        },
+        "Error Dim 2": {
+          "value": "#d934268f",
+          "type": "color"
+        },
+        "Error Dim 3": {
+          "value": "#d9342666",
+          "type": "color"
+        },
+        "Error Dim 4": {
+          "value": "#d9342629",
+          "type": "color"
+        },
+        "Error Dim 5": {
+          "value": "#d9342614",
+          "type": "color"
+        },
+        "Alert Dim 1": {
+          "value": "#ffaa00b8",
+          "type": "color"
+        },
+        "Alert Dim 2": {
+          "value": "#ffaa008f",
+          "type": "color"
+        },
+        "Alert Dim 3": {
+          "value": "#ffaa0066",
+          "type": "color"
+        },
+        "Alert Dim 4": {
+          "value": "#ffaa0029",
+          "type": "color"
+        },
+        "Alert Dim 5": {
+          "value": "#ffaa0014",
+          "type": "color"
+        },
+        "Neutral Dim 1": {
+          "value": "#627c93b8",
+          "type": "color"
+        },
+        "Neutral Dim 2": {
+          "value": "#627c938f",
+          "type": "color"
+        },
+        "Neutral Dim 3": {
+          "value": "#627c9366",
+          "type": "color"
+        },
+        "Neutral Dim 4": {
+          "value": "#627c9329",
+          "type": "color"
+        },
+        "Neutral Dim 5": {
+          "value": "#627c9314",
+          "type": "color"
+        },
+        "Surface Dim 1": {
+          "value": "#ffffffb8",
+          "type": "color"
+        },
+        "Surface Dim 2": {
+          "value": "#ffffff8f",
+          "type": "color"
+        },
+        "Surface Dim 3": {
+          "value": "#ffffff66",
+          "type": "color"
+        },
+        "Surface Dim 4": {
+          "value": "#ffffff29",
+          "type": "color"
+        },
+        "Surface Dim 5": {
+          "value": "#ffffff14",
+          "type": "color"
+        }
+      },
+      "Gradient": {
+        "Primary Gradient": {
+          "value": "linear-gradient(90deg, #f7bea1 0%, #ec5a13 100%)",
+          "type": "color"
+        }
+      },
+      "States": {
+        "Primary Hover": {
+          "value": "#f07b42",
+          "type": "color"
+        },
+        "Primary Variant Hover": {
+          "value": "#ec5a13",
+          "type": "color"
+        },
+        "Secondary Hover": {
+          "value": "#08365d",
+          "type": "color"
+        },
+        "Secondary Variant Hover": {
+          "value": "#627c93",
+          "type": "color"
+        },
+        "Background Hover": {
+          "value": "#f0f5fa",
+          "type": "color"
+        },
+        "Surface Hover": {
+          "value": "#f0f5fa",
+          "type": "color"
+        },
+        "Surface Inverse Hover": {
+          "value": "#08365d",
+          "type": "color"
+        },
+        "Success Hover": {
+          "value": "#71ad73",
+          "type": "color"
+        },
+        "Alert Hover": {
+          "value": "#ffbb33",
+          "type": "color"
+        },
+        "Error Hover": {
+          "value": "#e05d52",
+          "type": "color"
+        },
+        "Info Hover": {
+          "value": "#429ff0",
+          "type": "color"
+        },
+        "Neutral Hover": {
+          "value": "#7f95a9",
+          "type": "color"
+        },
+        "Primary Container Hover": {
+          "value": "#fdefe8",
+          "type": "color"
+        },
+        "Secondary Container Hover": {
+          "value": "#e7f3fd",
+          "type": "color"
+        },
+        "Success Container Hover": {
+          "value": "#edf5ee",
+          "type": "color"
+        },
+        "Alert Container Hover": {
+          "value": "#fff6e5",
+          "type": "color"
+        },
+        "Error Container Hover": {
+          "value": "#fbeceb",
+          "type": "color"
+        },
+        "Info Container Hover": {
+          "value": "#e7f3fd",
+          "type": "color"
+        },
+        "Neutral Container Hover": {
+          "value": "#f0f5fa",
+          "type": "color"
+        },
+        "Outline Hover": {
+          "value": "#06233d",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "test-spark-light": {},
   "$themes": [
     {
       "id": "9ea29b463ca430ddd61ef36932b21a9d0dfa13c2",
       "name": "spark-light",
       "selectedTokenSets": {
-        "spark-light": "enabled"
+        "spark-light": "enabled",
+        "test-lbc-light": "disabled",
+        "test-spark-light": "disabled"
       },
       "$figmaStyleReferences": {
         "primary.primary": "S:5c8d2bdc811a5feaa0dd5cbac6d7d65a13f7c708,",
@@ -131,7 +651,9 @@
       "id": "db553791397c6bdd0e2c0fc9bbba79760e2792d8",
       "name": "spark-dark",
       "selectedTokenSets": {
-        "spark-dark": "enabled"
+        "spark-dark": "enabled",
+        "test-lbc-light": "disabled",
+        "test-spark-light": "disabled"
       },
       "$figmaStyleReferences": {
         "primary.primary": "S:3cb6b9e3db6f50bc530aac4a873187f59609816c,",
@@ -146,7 +668,8 @@
       "id": "db553791397c6bdd0e2c0fc9bbba79760e2792d7",
       "name": "leboncoin-part-light",
       "selectedTokenSets": {
-        "leboncoin-light-part": "enabled"
+        "test-lbc-light": "disabled",
+        "test-spark-light": "disabled"
       },
       "$figmaStyleReferences": {
         "primary.primary": "S:4fb9864928faa318e4d51592a107095b34024163,",
@@ -161,7 +684,9 @@
       "id": "db553791397c6bdd0e2c0fc9bbba79760e2792d6",
       "name": "leboncoin-pro-light",
       "selectedTokenSets": {
-        "leboncoin-pro-light": "enabled"
+        "leboncoin-pro-light": "enabled",
+        "test-lbc-light": "disabled",
+        "test-spark-light": "disabled"
       },
       "$figmaStyleReferences": {
         "primary.primary": "S:c36521a4b04a15b95e22bdeb3c64a65bf7f06a74,",
@@ -171,6 +696,23 @@
         "primary.primary variant": "S:56d62096b4f3b4dbffe7bc41c775e2befefd4b8e,",
         "primary.on primary variant": "S:49ff44c93cc35934f8bd831e092227a560c4a758,"
       }
+    },
+    {
+      "id": "6da9356ca507c71fda2741577d74299b5f1fb7cf",
+      "name": "test-lbc-light",
+      "selectedTokenSets": {
+        "test-lbc-light": "enabled",
+        "test-spark-light": "disabled"
+      },
+      "$figmaStyleReferences": {}
+    },
+    {
+      "id": "59b4ff2c8136926e6a401956909078e196b3248f",
+      "name": "test-spark-light",
+      "selectedTokenSets": {
+        "test-spark-light": "enabled"
+      },
+      "$figmaStyleReferences": {}
     }
   ],
   "$metadata": {
@@ -178,7 +720,9 @@
       "spark-light",
       "spark-dark",
       "leboncoin-part-light",
-      "leboncoin-pro-light"
+      "leboncoin-pro-light",
+      "test-lbc-light",
+      "test-spark-light"
     ]
   }
 }
